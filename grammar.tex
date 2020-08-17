@@ -76,12 +76,27 @@
   \end{center}
 }
 
+\colorlet{current}{black}
+\colorlet{currentmk}{MidnightBlue}
+\colorlet{deprecated}{current!30}
+\colorlet{deprecatedmk}{currentmk!30}
+\colorlet{text}{current}
+\colorlet{mk}{currentmk}
+\color{text}
 \newcommand{\hun}[1]{\foreignlanguage{magyar}{#1}}
 \newcommand{\gr}[1]{\foreignlanguage{greek}{\grfont #1}}
 \newcommand{\ara}[1]{\foreignlanguage{arabic}{\arafont #1}}
-\newcommand{\mkfmt}{\color{MidnightBlue}}
+\newcommand{\mkfmt}{\color{mk}}
 \newcommand{\mk}[1]{{\it\mkfmt#1}}
 \newcommand{\mknm}[1]{{\mkfmt#1}}
+\newcommand{\deprecate}{%
+  \colorlet{text}{deprecated}
+  \colorlet{mk}{deprecatedmk}
+  \color{text}}
+\newcommand{\undeprecate}{%
+  \colorlet{text}{current}
+  \colorlet{mk}{currentmk}
+  \color{text}}
 \newcommand{\upa}[1]{{\ipa#1}}
 \newcommand{\subscr}[1]{\textsubscript{#1}}
 \newcommand{\supscr}[1]{\textsuperscript{#1}}
@@ -156,7 +171,7 @@
               {\end{multicols}}
 
 \title{Min\"ank\"ale}
-\author{Maria, Snow, Anna, Aino, Kekt\"akuuti, Esra}
+\author{Snow, Maria, Aino, Anna, Kekt\"akuwtte, Esra}
 
 \setcounter{tocdepth}{5}
 \setcounter{secnumdepth}{3}
@@ -174,18 +189,18 @@
 
 \include{chapters/introduction}
 \include{chapters/phono-and-ortho}
-\include{chapters/basic-syntax}
-\include{chapters/nouns-and-postpositions}
-\include{chapters/verbs-and-adjectives}
-\include{chapters/verbal-derivation}
-\include{chapters/pronouns}
-\include{chapters/classifiers}
-\include{chapters/complex-syntax}
-\include{chapters/useful-compounds}
-\begin{appendices}
-\include{chapters/core-lexicon}
-\include{chapters/compounds}
-\include{chapters/phrases}
-\include{chapters/sample-texts}
-\end{appendices}
+%\include{chapters/basic-syntax}
+%\include{chapters/nouns-and-postpositions}
+%\include{chapters/verbs-and-adjectives}
+%\include{chapters/verbal-derivation}
+%\include{chapters/pronouns}
+%\include{chapters/classifiers}
+%\include{chapters/complex-syntax}
+%\include{chapters/useful-compounds}
+%\begin{appendices}
+%\include{chapters/core-lexicon}
+%\include{chapters/compounds}
+%\include{chapters/phrases}
+%\include{chapters/sample-texts}
+%\end{appendices}
 \end{document} 
