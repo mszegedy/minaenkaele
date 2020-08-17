@@ -1,0 +1,191 @@
+\documentclass[justified,oneside,notoc]{tufte-book}
+
+% font stuff
+\newcommand{\textls}[2][5]{%
+  \begingroup\addfontfeatures{LetterSpace=#1}#2\endgroup
+}
+\renewcommand{\allcapsspacing}[1]{\textls[15]{#1}}
+\renewcommand{\smallcapsspacing}[1]{\textls[10]{#1}}
+\renewcommand{\allcaps}[1]{\textls[15]{\MakeTextUppercase{#1}}}
+\renewcommand{\smallcaps}[1]{\smallcapsspacing{\scshape\MakeTextLowercase{#1}}}
+\renewcommand{\textsc}[1]{\smallcapsspacing{\textsmallcaps{#1}}}
+\usepackage{fontspec}
+\setmainfont[
+  Path           = ./fonts/ ,
+  UprightFont    = *-patched ,
+  BoldFont       = *-Bold-patched ,
+  ItalicFont     = *-Italic-patched ,
+  BoldItalicFont = *-BoldItalic ,
+  SmallCapsFont  = *Caps-patched ,
+  Extension      = .otf ,
+  Ligatures      = TeX
+]{Scala}
+\setsansfont{URW Gothic}
+% \newfontfamily{\tamfont}[Script=Tamil]{Noto Serif Tamil}
+\newfontfamily{\grfont}[Script=Greek]{Anaktoria}
+\newfontfamily{\arafont}[Script=Arabic]{Noto Naskh Arabic}
+\newfontfamily{\symb}{Symbola}
+\newfontfamily{\ipa}{Doulos SIL}
+
+% other packages
+\usepackage[greek,magyar,english]{babel} % correct line breaks
+\usepackage[utf8]{inputenc}              % utf-8 encoding
+\usepackage{subdepth}                    % fix spacing
+\usepackage{graphicx}                    % insert images
+\usepackage{amssymb}                     % insert certain characters
+\usepackage[tight,nice]{units}  % do non-SI units
+\usepackage[toc,page]{appendix} % appendix formatting
+\usepackage{amsmath}   % insert certain symbols
+\usepackage{bm}        % make math bold
+\usepackage{mathtools} % insert certain symbols
+\usepackage{enumitem}  % easy lists
+\usepackage{xcolor}    % colored text
+\usepackage{expex}     % glosses
+\usepackage{booktabs}  % nice-looking tables
+\usepackage{array}     % table stuff
+\usepackage{xargs}     % multiple optional arguments for macros
+%%% SPECIFICALLY FOR TONE STUFF %%%
+\usepackage{tikzvowel}
+\usetikzlibrary{fit}
+% \usepackage{expex} % already included above
+\usepackage{phonrule}
+\input{tone-stuff}
+%%% END TONE STUFF %%%
+
+%%% SPECIFICALLY FOR GLOSS STUFF %%%
+% code from sparksbet's question: https://tex.stackexchange.com/q/524021/21256
+\newcommand{\agl}{\ex[everygla=\it\mkfmt]\begingl\gla}
+\newcommand{\bgl}{\glb}
+\newcommand{\tgl}{\glft}
+\newcommand{\glend}{\endgl\xe}
+%%% END GLOSS STUFF %%%
+
+
+\makeatletter
+\newcommand*{\centerfloat}{%
+  \parindent \z@
+  \leftskip \z@ \@plus 1fil \@minus \textwidth
+  \rightskip\leftskip
+  \parfillskip \z@skip}
+\makeatother
+
+\newcommand{\smallsection}[1]{%
+  \vspace{0.5em}
+  \begin{center}
+    {\large #1}
+  \end{center}
+}
+
+\newcommand{\hun}[1]{\foreignlanguage{magyar}{#1}}
+\newcommand{\gr}[1]{\foreignlanguage{greek}{\grfont #1}}
+\newcommand{\ara}[1]{\foreignlanguage{arabic}{\arafont #1}}
+\newcommand{\mkfmt}{\color{MidnightBlue}}
+\newcommand{\mk}[1]{{\it\mkfmt#1}}
+\newcommand{\mknm}[1]{{\mkfmt#1}}
+\newcommand{\upa}[1]{{\ipa#1}}
+\newcommand{\subscr}[1]{\textsubscript{#1}}
+\newcommand{\supscr}[1]{\textsuperscript{#1}}
+\newcommand{\wdef}[2]{\mk{#1} `#2'\par}
+\newcommand{\wdeftwo}[3]{\mk{#1} 1.~`#2', 2.~`#3'\par}
+\newcommand{\etwdef}[3]{\mk{#1} `#2' \mbox{(\textless}~#3)\par}
+\newcommand{\etwdeftwo}[4]{\mk{#1} 1.~`#2', 2.~`#3' \mbox{(\textless}~#4)\par}
+\newcommand{\oldetwdef}[4]{\mk{#1} `#2' (\textless~#3~\upa{*#4})\par}
+\newcommand{\mketwdef}[3]{\mk{#1} `#2' \mbox{(\textless}~\mk{#3})\par}
+\newcommand{\ortho}[1]{$\langle$#1$\rangle$}
+\newcommand{\foc}[1]{({\sc #1f})}
+\newcommand{\case}[1]{(+{\sc #1})}
+\newcommand{\morp}[1]{\textsc{#1}}
+
+\newcommand{\bigexample}[2]{%
+  \begin{quote}\normalsize
+    \mknm{#1}
+
+    #2
+  \end{quote}}
+
+\newenvironmentx{affixes}[2][2=0.5em]{%
+  \begingroup
+  \def\affixestitle{#1}
+  \tabcolsep=#2
+  \begin{tabular}{ll}
+    \toprule}{%
+    \bottomrule\\[-1em]
+    \multicolumn{2}{c}{\affixestitle} \\
+  \end{tabular}\endgroup}
+\newenvironment{affixestwo}[3]{%
+  \begingroup
+  \def\affixestitle{#1}
+  \tabcolsep=0.5em
+  \begin{tabular}{@{\hskip 0.5em}lll@{\hskip 0.5em}}
+    \toprule\midrule
+    \multicolumn{1}{c}{#2} & \multicolumn{1}{c}{#3} & \\\midrule}{%
+  \bottomrule\\[-1em]
+  \multicolumn{3}{c}{\affixestitle} \\
+  \end{tabular}\endgroup}
+\newenvironment{affixesthree}[4]{%
+  \begingroup
+  \def\affixestitle{#1}
+  \tabcolsep=0.5em
+  \begin{tabular}{@{\hskip 0.5em}llll@{\hskip 0.5em}}
+    \toprule\midrule
+    \multicolumn{1}{c}{#2}
+    & \multicolumn{1}{c}{#3}
+    & \multicolumn{1}{c}{#4}
+    & \\\midrule}{%
+  \bottomrule\\[-1em]
+  \multicolumn{4}{c}{\affixestitle} \\
+  \end{tabular}\endgroup}
+\newenvironment{affixestwodefs}[3]{%
+  \begingroup
+  \def\affixestitle{#1}
+  \tabcolsep=0.5em
+  \begin{tabular}{@{\hskip 0.5em}lll@{\hskip 0.5em}}
+    \toprule\midrule
+    & \multicolumn{1}{c}{#2} & \multicolumn{1}{c}{#3} \\\midrule}{%
+  \bottomrule\\[-1em]
+  \multicolumn{3}{c}{\affixestitle} \\
+  \end{tabular}\endgroup}
+
+\newenvironment{wdefs}[1]
+               {\subsection{#1}%
+                \begin{multicols}{3}\raggedcolumns\interlinepenalty=10000}
+               {\end{multicols}}
+\newenvironment{wdefsn}[2]
+              {\subsection{#2}%
+                \begin{multicols}{#1}\raggedcolumns\interlinepenalty=10000}
+              {\end{multicols}}
+
+\title{Min\"ank\"ale}
+\author{Maria, Snow, Anna, Aino, Kekt\"akuuti, Esra}
+
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{3}
+
+\let\oldchapter\chapter
+\def\chapter{%
+  \setcounter{footnote}{0}%
+  \oldchapter
+}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\include{chapters/introduction}
+\include{chapters/phono-and-ortho}
+\include{chapters/basic-syntax}
+\include{chapters/nouns-and-postpositions}
+\include{chapters/verbs-and-adjectives}
+\include{chapters/verbal-derivation}
+\include{chapters/pronouns}
+\include{chapters/classifiers}
+\include{chapters/complex-syntax}
+\include{chapters/useful-compounds}
+\begin{appendices}
+\include{chapters/core-lexicon}
+\include{chapters/compounds}
+\include{chapters/phrases}
+\include{chapters/sample-texts}
+\end{appendices}
+\end{document} 

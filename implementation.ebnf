@@ -1,0 +1,135 @@
+/* formulas of multiple pronouns in a sequence; "me" pronoun gets interpreted
+   as "me and" when combined with other personal pronouns
+
+   mi = me
+   ko = who
+   ku = what organism
+   mo = what inorganic thing
+   */
+pronoun_formula ::= 'mi' | 'ko' | 'ku' | 'mo'
+                    | personal locative? demonstrative?
+                    | locative demonstrative?
+                    | demonstrative
+
+/* "personal" pronouns, designating class of physical thing */
+personal ::= person | organism | inorganic_thing
+
+/* koje  = masculine-presenting
+   kewe  = feminine-presenting
+   nati  = nb-presenting
+   U~    = singular (< Ukte)
+   kA~   = plural (< kektA)
+   wi~   = all (< witte)
+   mi    = me and
+   ti    = (at least one of) whom i'm speaking to
+   mi~   = me and + (at least one of) whom i'm speaking to
+   tA    = someone inside my head
+   nA    = someone outside my head
+   sU    = people inside and outside my head
+   */
+person ::= ('koje' | 'kewe' | 'nati')?
+           (('U~' | 'ke~' | 'wi~')?
+            (('mi' | 'ti' | 'mi~')?
+             ('tA' | 'nA')
+             | 'ti')
+            | 'wi~'? ('mi' | 'ti' | 'mi~')? 'sU')
+
+/* kala = mobile organism
+   puwi = immobile organism
+organism ::= 'kala' | 'puwi'
+
+/* cjA~  = solid (< cjAke)
+   mur   = crumbly (< mura)
+   jan   = gel (< jami)
+   din   = sticky (< dimA)
+   we~   = liquid (< wete)
+   kUn   = wispy (< kUnti)
+   pUl   = airy (< pUli)
+   pije  = compact
+   Sorwa = spindly
+   kali  = porous
+   mage  = pile-like
+   kumi  = sheet-like
+   */
+inorganic_thing ::= ('cjA~' | 'mur' | 'jan' | 'din' | 'we~' | 'kUn' | 'pUl')?
+                    ('pije' | 'Sorwa' | 'kali' | 'mage' | 'kumi')
+
+/* "locative" pronouns, designating how many dimensions something has and where
+   it is */
+locative ::= space_or_point | horiz_surface | other_surface
+
+
+/* an     = space < (ange)
+   wongke = inside something hollow
+   mAni   = outside something hollow
+   muri   = inside something dense
+   mage   = outside something dense
+   wilA   = above something
+   ala    = below something
+   morti  = next to something
+   */
+space_or_point ::= 'an'?
+                   (personal_distance
+                    | further_distance
+                      ('wongke' | 'mAni' | 'muri' | 'mage' | 'wilA' | 'ala'
+                       | 'morti')?)
+
+/* sangcja = under one of us
+   ala     = under both of us
+   takki   = over one of us
+   wilA    = over both of us
+          */
+horiz_surface ::= horiz_personal_distance
+                  | horiz_further_distance
+                    (surface_placement | 'sangcja' | 'ala' | 'takki' | 'wilA')?
+
+/* la~ = flat (< lapa)
+   kur = curved (< kuri)
+   */
+other_surface ::= ('la~' | 'kur')
+                  (personal_distance | further_distance surface_placement?)
+
+/* seka = inside something
+   ange = outside something
+   */
+surface_placement ::= 'seka' | 'ange'
+
+/* sjidA = inside me
+   sUle  = on me
+   tAwe  = inside you
+   soja  = on you
+   */
+personal_distance ::= 'sjidA' | 'sUle' | 'tAwe' | 'soja'
+
+/* ta    = near me
+   na    = near you
+   mAtti = near us
+   no    = reachable
+   paCki = unreachable
+   */
+further_distance ::= 'ta' | 'na' | 'mAtti' | 'no' | 'paCki'
+
+/* kopa  = on me
+   kama  = on you
+   */
+horiz_personal_distance ::= 'kuri' | 'kopa' | 'kuppi' | 'kama'
+
+/* komi    = near me
+   kopta   = near you
+   kule    = near us
+   konjcji = reachable
+   kunjcji = unreachable
+   */
+horiz_further_distance ::= 'komi' | 'kopta' | 'kule' | 'konjcji' | 'kunjcji'
+
+/* "demonstrative" pronouns, designating degree of salience
+
+   o    = less salient
+   te   = extant
+   umi  = nonexistent
+   sala = recently extant
+   jomi = shortly extant
+   wuni = previously extant
+   koje = eventually extant
+   */
+demonstrative ::= 'o'? ('te' | 'umi' | 'sala' | 'jomi' | 'wuni' | 'koje')

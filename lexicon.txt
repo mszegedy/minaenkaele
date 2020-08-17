@@ -1,0 +1,2588 @@
+;;;; onomatopoeia
+
+\'n\"a\"ap(i) Onom
+duck noise, duck (informal)
+
+\'nuwu Onom
+cat, cat noise
+
+ŋoŋo Onom
+goose noise, goose (informal)
+
+
+;;;; nouns
+
+aŋe N
+U space (all senses)
+
+aŋi N
+U ptarmigan
+
+aŋti N
+U horn
+
+apte N
+U fur, hair
+
+arga N
+U value
+
+arpa N
+U device
+
+asuri N
+FU leader
+
+a\'ske N
+U footstep
+
+ate N
+U thing, whatsit
+
+\"aim\"a N
+U needle
+
+\"ali N
+U sap
+
+\"ampi N
+Ug dog
+
+\"ane N
+U voice
+
+\"aŋe N
+[Smy *äŋ] world
+
+\"aŋi N
+U chin, lower jaw
+
+\"aŋi\'ci N
+U raspberry
+
+\"ari N
+U year with many rodents, year (in other contexts)
+
+cacepe N
+[Smy *cac\"ap\"a] s'one who provides intimate emotional support
+
+c\"amceje N
+[Smy *c\"amcəjə] frog
+
+care N
+[Smy *car\"a] a round egg laid by an invertebrate
+
+c\"are N
+[Smy *c\"ar] the space under one's chin
+
+cene N
+[Smy *cen] biological tissue of any kind
+
+ceŋke N
+[Smy *ceŋkə] epithelium
+
+cerke N
+Smy the young of a non-canid animal
+
+cuke N
+[Smy *cukə] worm~I
+
+c\"ure N
+[Smy *c\"urə] tool
+
+\'caiwa N
+[Smy *t'ajwa] tail of canid
+
+\'caka N
+U thin ice with water beneath
+
+\'c\"ake N
+U hard snow
+
+\'ceŋi N
+Ug time~III
+
+\'cikl\"a N
+U wart
+
+\'colme N
+U knot, bunch, bundle
+
+\'con\v{c}a N
+U flea
+
+\'corki N
+U blade
+
+\'couja N
+U stomach
+
+\'cugi N
+U woodworm
+
+\'cukki N
+U summit
+
+\'cumpi N
+U s'th you can drink from
+
+\'curi N
+FU flower
+
+\'c\"uk\v{c}iteri N
+FV currant
+
+\'c\"uŋ\'ci N
+U passerine
+
+\'c\"uŋi N
+U knuckle
+
+\'c\"uŋk\"a N
+U hill
+
+\v{c}a\'cki N
+FU vulture
+
+\v{c}am\v{c}e N
+U layer of skin
+
+\v{c}\"an\v{c}\"a N
+U back (of a vertebrate)
+
+\v{c}\"a\v{c}ke N
+FP a few minutes
+
+\v{c}e\v{c}i N
+U duck
+
+\v{c}i\v{c}\"a N
+U sparrow
+
+\v{c}eŋke N
+U fumes, exhaust, smog
+
+\v{c}eŋki N
+U wedge, ramp
+
+\v{c}iŋi N
+U smoke, smog
+
+\v{c}iwni N
+FV scent, smell
+
+\v{c}o\v{c}i N
+U s'th soft to lie on
+
+\v{c}o\v{s}a N
+FP sulfur
+
+d\"appi N
+U spleen
+
+\v{d}im\"a N
+U glue
+
+\v{d}\"aŋisi N
+U tree bark that has been used for s'th
+
+\v{d}uome N
+U cherry
+
+eŋwa N
+Smy sleep, dream
+
+ert\"a N
+FP side of your body
+
+i\'ce N
+U shadow, subconscious
+
+ike\'ne N
+U palate
+
+ili N
+FU evening
+
+ilma N
+U daytime sky
+
+imi N
+U female family member older than you
+
+irk\"a N
+U boy
+
+jaka N
+U part, piece
+
+jakki N
+U pinewood
+
+jalka N
+U paw, foot
+
+jami N
+U gel
+
+j\"aje N
+U s'th thin supporting s'th heavy
+
+j\"ak\"al\"a N
+FP lichen
+
+j\"alke N
+U trail, track, sign
+
+j\"alŋi N
+U base of tree
+
+j\"ame N
+[Smy *j\"am] sea
+
+j\"ante N
+U sinew
+
+j\"aŋe N
+U ice
+
+j\"aŋk\"a N
+U swamp
+
+j\"ari N
+U loop
+
+j\"ase N
+U joint, node
+
+j\"awje N
+U beard lichen
+
+jeki N
+U perch (fish)
+
+jel\"a N
+U daytime, Sun
+
+jipi N
+U owl
+
+jok\'ce N
+U swan
+
+joke N
+U river
+
+joŋsi N
+U bow (for shooting arrows)
+
+joukki N
+U crowd, pile, heap
+
+jik\"a N
+U age (all senses), year (in contexts concerning rodent populations)
+
+juki N
+FU child, pup, cub
+
+juma N
+FV spirit, god
+
+jun\v{c}a N
+FU way, path
+
+jurti N
+U friend
+
+juwi N
+U pine
+
+j\"uti N
+U (nighttime) sky
+
+ka\'ca N
+FU endpoint
+
+ka\'n\'ci N
+U pintail duck
+
+ka\v{c}a N
+U container
+U resin
+
+ka\v{d}a N
+U ridge
+
+ka\v{d}wa N
+U weasel
+
+kaja N
+Smy celestial light
+
+kajaka N
+U gull
+
+kajare N
+[Smy *kaya-rə] Northern lights, aurora
+
+kala N
+U fish
+
+kali N
+U net
+
+kalke N
+FV whisker
+
+ka\v{l}wi N
+U membrane
+
+kama N
+U any protective covering of a mobile organism
+
+kanta N
+U load, weight, burden
+
+kaŋka N
+FU dry, sandy place
+
+kappi N
+FU pine tree
+
+karke N
+U crane
+
+kata N
+U throat
+
+kati N
+U pasture
+
+k\"a\v{c}i N
+FU juniper
+
+k\"aji N
+U baby bird
+
+k\"ali N
+FU string, twine
+U marsh lake, muddy lake
+
+k\"ame N
+U paw pad, palm
+
+k\"anti N
+Ug emotion, (singular) mood, feeling
+
+k\"ari N
+U sterlet
+
+k\"arn\"a N
+U any protective covering of an immobile organism
+
+k\"ate N
+FU forepaw, hand
+
+ke\'c\"a N
+U carp
+
+ke\v{c}\"a N
+FU circle, ring
+
+ke\v{c}i N
+FU knife
+
+ke\v{d}e N
+FU skin
+
+kenti N
+FU time~II
+
+keŋ\"a N
+FV nice weather
+
+kes\"a N
+FV snowmelt
+
+ki\'ci N
+U decoration on your body or clothes, a pleasant distinctive physical feature of
+  s'one
+
+ki\v{c}i N
+U soft, fresh snow
+
+kide N
+FV spring (season)
+
+kiele N
+U tongue, language
+
+kilm\"a N
+FP cold, biting wind
+
+kipe\'ni N
+FP spark
+
+ko\'cmi N
+FU onion, allium
+
+ko\v{d}wa N
+FV a long while
+
+koimi N
+U human
+
+koira N
+U smell usually associated with men
+
+koiwa N
+U birch tree
+
+koje N
+U sentient species
+U dawn
+
+koji N
+U scoop, spoon
+
+kolja N
+FU evil spirit, demon, mental illness
+
+komta N
+FP lid, cover
+
+koni N
+FP lye
+
+konta N
+U fatigue, stillness, viscosity, lethargy
+
+kopa N
+U skin, bark
+
+kose N
+U spruce, fir
+
+kota N
+U dwelling
+
+ku\'ce N
+U urine
+
+ku\v{c}i N
+U ant
+
+kudi N
+U (falling) precipitation
+
+kudu N
+U morning
+
+ku\v{d}mi N
+U ash
+
+kuli N
+U parasitic worm
+
+ku\v{l}ma N
+U area above eyes
+
+kumi N
+U morning
+U thin snow
+
+kumpa N
+U wave
+
+kuni N
+U belly
+
+ku\'n\'ci N
+U star
+
+kuŋe N
+U moon, month
+
+kupe N
+U air bladder
+
+kura N
+U a very delicate or fine layer of s'th, esp.~snow or frost
+
+kuro N
+U body
+
+kuru N
+U knife
+
+kurni N
+U raven
+
+kuuma N
+FV fever
+
+k\"unt\"a N
+U fog
+
+k\"unti N
+Ug feeling, mood
+
+k\"uje N
+U snake
+
+lappi N
+U plane
+
+leme\v{s}i N
+FV linden tree~II
+
+lieme N
+FU juice, soup
+
+linta N
+FU bird
+
+liwa N
+FU sand
+
+l\"ampi N
+FV entropy
+
+leppi N
+U cover, roof
+
+lomi N
+FU body heat, heat of a dwelling, interior heat
+
+loppa N
+FP mold that grows after dampness
+
+louna N
+U day (unit)
+
+luji N
+U pine marten
+
+luke N
+U number, amount
+
+lume N
+FP fallen snow
+
+lunta N
+FU goose
+
+luoje N
+[Mansi, Sami] south
+
+luppa N
+FV moss
+
+luwe N
+U bone, marrow
+
+l\"upi N
+U leaf, letter
+
+l\"uppi N
+U butterfly, moth
+
+\v{l}ap\'ci N
+U any place where it is safe to keep a baby
+
+\v{l}up\v{s}a N
+U dew
+
+mage N
+U land, earth, Earth
+
+mai\v{d}a N
+U forest
+
+maksa N
+U liver
+
+m\"a\'n\'ci N
+U non-fleshy tail, such as that of a bird
+
+m\"akte N
+U grassy hill
+
+m\"ate N
+U home
+
+meke N
+U matter, deed, thing
+
+miele N
+U mind
+
+mini N
+U arc, curve, (1D) shape
+
+mi\'ni N
+FU atmosphere
+
+muna N
+U egg
+
+muŋki N
+U blunt instrument
+
+mura N
+U bit, crumb
+U cloudberry
+
+muri N
+U knot or other irregularity in something
+
+n\"ake Vi
+FU seem, look
+
+neide N
+U someone romantically available
+
+nide N
+U stem, stalk, handle
+
+niere N
+U snout, nose
+
+nime N
+U name
+
+niŋ\"a N
+U smell usually associated with women
+
+noka N
+Smy Arctic fox
+
+numi N
+U space (where the planets and stars are)
+
+\'nace N
+Smy grass
+
+\'naŋ\'ce N
+U gill
+
+\'newle N
+U arrow
+
+\'nepli N
+U reindeer calf
+
+\'nila N
+FU internal fluid of any organism
+
+\'nile N
+U elevated structure
+
+\'nime N
+[Smy *\'nim] milk
+
+\'niŋ\'se N
+FU milt sac
+
+\'nomali N
+U rabbit
+
+\'nori N
+U marsh water
+
+\'nouŋa N
+U salmon
+
+\'nuli N
+U slime, slime mold
+
+\'nulki N
+U fir tree
+
+\'nuorke N
+U cartilage
+
+\'nurme N
+U meadow
+
+oiwa N
+U head
+
+om\v{c}a N
+U beetle
+
+on\v{c}i N
+U nelma (fish)
+
+onta N
+FP heat~II
+
+oŋte N
+FU cave
+
+oŋti N
+U thorn
+
+opa N
+Smy glove, small and limited protective covering
+
+osa N
+U berry~II
+
+owe N
+U door, port, dam, gate
+
+pa\v{c}i N
+U color
+
+pa\v{d}we N
+U fungus
+
+paji N
+U willow tree
+
+pa\'si N
+U rift, crack, gorge
+
+pak\v{s}a N
+U tumor
+
+pa\v{l}a N
+FU frost~I
+
+p\"a\"al\"a N
+FP eternity
+
+p\"aiw\"a N
+FU fire~II
+
+p\"aki N
+U pinecone, cone shape
+
+p\"ak\v{s}en\"a N
+FV linden tree~I
+
+p\"aŋe N
+U head, core, center of function
+
+pedp\"a N
+U shoulder blade
+
+pelme N
+FP dirt, dust~II
+
+pene N
+FU dog
+
+peri N
+U skin of a mammal
+
+perti N
+FU wall
+
+pes\"a N
+U nest
+
+piira N
+U bladder chamber of digestive system other than stomach (e.g.~appendix, crop)
+
+piksi N
+U cord, string, connection
+
+pilwe N
+FU cloud
+
+pimi N
+Ug tended grass
+
+piŋseme N
+U lip
+
+poika N
+FU male family member younger than you
+
+poita N
+U ermine
+
+poji N
+U aspen tree
+
+pola N
+U berry~I
+
+polwe N
+U knee
+
+pori N
+FP old
+
+poske N
+U cheek
+
+puji N
+U waterfowl
+
+puna N
+U soft fuzzy fur, down (of a bird)
+
+puri N
+U roe
+
+purka N
+U storm
+
+purki N
+U time~I
+
+puti N
+U crust, esp.~icy
+
+puwi N
+U tree
+
+p\"ui\'ci N
+U sharp, heavy instrument
+
+p\"uŋe N
+U hazel grouse
+
+p\"uli N
+U horsefly
+
+rati N
+FU vapor
+
+reŋi N
+U heat~I
+
+rep\"a N
+U fox, person
+
+rine N
+U a layer of water or ice on something
+
+r\"umi N
+U twilight
+
+sawa N
+[Ug, FV] syllable, (singular) breath
+
+s\"aks\"a N
+FP dirt, dust~I
+
+s\"aŋe N
+U air
+
+s\"api N
+U squirrel
+
+seip\"a N
+U fleshy tail of non-canid
+
+seŋ\'celi N
+U lizard
+
+si\v{d}i N
+U endeavor, hurry, goal
+FU wetland
+
+sik\'se N
+FU fall, autumn
+
+sira N
+Smy snow of any kind
+
+soja N
+U forelimb, arm
+
+soksi N
+U Siberian pine tree
+
+su\v{d}i N
+U finger
+
+suŋe N
+U summer
+
+suŋeli N
+U lily
+
+suone N
+U tendon
+
+sukse N
+U the paws of an Arctic fox, snow shoes
+
+s\"uje N
+U plant fiber suitable for twine
+
+s\"ule N
+U lap
+
+\'sali N
+U band, stripe
+
+\'sari N
+U snow that has melted, refrozen, and become hard
+
+\'sarma N
+U exhaust vent
+
+\'sarna N
+FU answer, magic word, s'th it took a lot of effort to come up with
+
+\'sarta N
+U deer
+
+\'s\"ake N
+FV tinder
+
+\'s\"aŋe N
+U braid
+
+\'seri N
+U row, layer, order, one of multiple ordered groups
+
+\'sid\"a N
+U heart
+
+\'si\v{d}e N
+U charcoal
+
+\'sil\"a N
+U fat, lard
+
+\'silm\"a N
+U eye
+
+\'siŋe N
+U turn, (rounded) angle
+
+\'sodka N
+FU eider duck
+
+\'soiwa N
+U clay, adobe
+
+\'suri N
+FU pikefish
+
+\'surme N
+U dangerous animal
+
+\'su\'sa N
+FU tapeworm
+
+\'suwe N
+U mouth, muzzle
+
+\'s\"une N
+U tinder fungus
+
+\'s\"urj\"a N
+FV rim
+
+\v{s}\"a\v{s}k\"a N
+U otter
+
+\v{s}uje N
+FP point, dot, sharp tip
+
+\v{s}uŋe N
+FU spirit
+
+taka N
+U latter part, conclusion
+
+tarka N
+FU object, thing
+
+tarna N
+FP traversible vegetation
+
+t\"aŋki N
+FU dry moss or grass
+
+t\"a\"awe N
+U lung
+
+t\"alw\"a N
+FU winter
+
+t\"a\v{s}t\"a N
+FV omen, mark, sign, evidence
+
+tewe N
+FV work
+
+tew\"a N
+U reindeer
+
+tone
+[Smy *ton] number
+
+tori N
+U struggle, strife, battle
+
+totke N
+U tench
+
+touki N
+FU when the water level rises from heavy snowmelt or rain
+
+towi N
+U lake, pond
+
+tukti N
+U cross-bar, beam, strut
+
+tuule N
+U fire~I
+
+tulka N
+U wing
+
+t\"uk\"ure N
+[Hun t\"uk\"or, W Mari t\"ug\"ur] mirror
+
+t\"ugiti N
+Ug fire~III
+
+uki N
+U participant, player, party, side (of a matter)
+
+umi N
+U hole, cavity, depression in
+
+umri N
+FP flame
+
+uode N
+FU year with not many rodents
+
+utka N
+U track, clue, note, piece of evidence
+
+\"ugi N
+U kit, baby
+
+\"uje N
+U night
+
+wa\v{c}i N
+U root
+
+waiŋe N
+U breath, life, soul
+
+wam\'si N
+U butt, base of tail
+
+wanti N
+U lover, spouse
+
+wa\'n\'ca N
+U slush
+
+wa\'ske N
+U metal
+
+wala N
+FV word~II
+
+walki N
+FU light
+
+wara N
+U crow
+
+wen\v{c}i N
+U face
+
+we\'n\'ci N
+U whole, total
+
+wete N
+U water
+
+widi N
+U brain
+
+wire N
+U blood
+
+wi\v{s}a N
+FU poison
+
+wo\v{c}a N
+U filter, weir
+
+wolka N
+U shoulder
+
+woŋke N
+U cave, deep hole
+
+wopi N
+U sleeping-place
+
+wuore N
+U mountain
+
+
+;;;; verbs
+
+ali Vt
+U say s'th meaningful, intone, pronounce, perform
+
+ama Vt
+U drink, siphon off
+
+ami Vs
+U sit
+
+amta Vt
+U give (temporarily)
+
+ari Vt
+FU destroy, tear apart, dismember
+
+atti Vt
+Ug reply
+
+a\'n\'ci Vt
+FP pay attention to
+
+a\'se Vt
+U dig, construct, set up
+
+\"a\v{c}\"a Vt
+FU like
+
+\"ali Vt
+U carry (with your full body)
+
+\"alw\"a Vt
+FP understand
+
+\"alw\"a Vaux
+FP be able
+
+\"amiri Vt
+U create, edit
+
+\"aŋi Vs
+U burn~I
+
+\"asi Vt
+FU heat
+
+ceki Vi
+Smy groan
+
+ce\'n\'ca Vi
+[Smy *cənťa] climb, ascend a surface
+
+cenci Vi
+Smy creep (as a viscous liquid does)
+
+cini Vt
+Smy learn or notice via smell
+
+cupe Vs
+[Smy *cupə] beat (as a heart does)
+
+\'cada Vi
+U run
+
+\'c\"aŋki Vi
+U break
+
+\'c\"arke Vs
+U hurt
+
+\'cele Vt
+U rub off with s'th rough, abrade, scratch (an itch)
+
+\'cokki Vi
+U bend
+
+\'cori Vs
+U flow, ooze
+
+\'cuokki Vt
+Ug kiss
+
+\'c\"ulki Vt
+U glitter~I
+
+\'c\"uni Vinch
+U diminish
+
+\'c\"uppi Vs
+U drip
+
+\'c\"uppi Vt
+U bite gently, pinch, kiss
+
+\v{c}a\v{c}i Vinch
+U be born
+
+\v{c}a\v{c}i Vi
+U grow (as an organism)
+
+\v{c}an\v{c}i Vs
+U ambulate, run (as a device does)
+
+\v{c}aŋi Vt
+U strike
+
+\v{c}\"akki Vi
+U suffocate, drown
+
+\v{c}\"aŋki Vt
+FU help
+
+\v{c}emi Vi
+U ferment
+
+\v{c}etti Vi
+Ug for the sun to set, to lay down to rest
+
+\v{c}ije Vs
+U go fast
+
+\v{c}itti Vt
+Ug fry
+
+\v{c}o\v{c}i Vt
+U scrub, sweep, wipe off
+
+\v{c}ukka Vt
+U steal
+
+dasi Vinch
+Ug evaporate
+
+du\'ci Vinch
+Ug flood
+
+\v{d}ukki Vt
+U thrust
+
+e Vaux
+U (negative verb, see~\S5.5)
+
+e\'ci Vi
+U fall
+
+e\v{c}ki Vt
+FU praise
+
+el\"a Vi
+U live
+
+eŋkiri Vt
+Ug recite
+
+eski Vt
+U believe
+
+e\v{s}te Vt
+U finish
+
+i\v{c}i Vt
+U weigh down, press on
+
+ime Vi
+U suck
+
+ipi Vt
+U smell, taste
+
+i\'si Vt
+[FP | +efoc] call out to
+
+it\"a Vi
+FU appear, flash, spark
+
+itt\"a Vt
+U hang (up)
+
+jaka Vt
+U separate
+
+jama Vinch
+U lose functionality
+
+jama Adj
+U ill
+
+jari Vt
+Ug draw (a picture)
+
+j\"ak\v{s}i Vinch
+FV freeze, solidify
+
+j\"anti Vinch
+U congeal
+
+j\"aŋke Adj
+U missing, absent
+
+jekki Vi
+U dance
+
+jeni Vt
+U slice
+
+jeri Vt
+[U | +efoc] talk to in a scary way (yell, threaten, curse, etc.)
+
+jim\"a Adj
+FV sweet
+
+joksa Vinch
+FP loosen, undress
+
+jomi Vi
+U go off, set off, start
+
+juge Vi
+FU drink (thing being drunk can be marked as a tool)
+
+jukta Vt
+FU explain (s'th hard to understand)
+
+juri Vinch
+U get lost or forgotten
+
+juta Vi
+U wander idly
+
+ken\{v}ci Vi
+U search, wander purposefully
+
+peje Vt
+[Smy *pe(j)- | +efoc] look for, search for
+
+jutta Vt
+U bind, affix, add
+
+j\"uŋi Vi
+Ug come
+
+ka\'ce Vt
+[FP | +efoc] glance at
+
+ka\'ci Vt
+U give (permanently)
+
+ka\v{c}i Vt
+FP accuse
+
+ka\v{c}ka Vi
+FP gnaw, chew, shred
+
+ka\v{d}a Vi
+U leave
+
+ka\v{d}a Vt
+[U | +sfoc] leave alone, abandon
+
+kaja Vi
+FU throw
+
+kaji Vt
+FU deal with, handle, process emotionally
+
+kaiki Vi
+FV resound
+
+kali Vi
+FU sleep over
+
+kalka Vt
+U heave
+
+kani Vt
+FU scatter
+
+kanta Vt
+U carry within
+
+kaŋi Vi
+U cry out in distress
+
+kaŋki Vt
+[Ug | +pfoc] ascend
+
+kari Vt
+[FU | +sfoc] have s'one or s'th cause you anxiety
+
+karma Vt
+U want~I
+
+kaswa Vi
+FU develop
+
+katti Vt
+[U | +pfoc] penetrate, make it through, progress past an obstactle
+
+k\"a\'ci Vinch
+FP become infected, catch a cold (informal)
+
+k\"a\v{c}ke Vt
+FV hide away, conceal
+
+k\"al\"a Vi
+FU wade
+
+k\"am\"aile Vt
+[Smy *k\"aməjl-] cuddle, touch thoroughly
+
+k\"ari Vt
+FU bind
+
+k\"aske Vi
+FP give an order
+
+k\"aske Vaux
+FP (imperative verb| see~\S5.5)
+
+k\"arte Vt
+FV bear (a hardship or challenge), experience s'th bad
+
+keje Vt
+U skin an animal, prepare a meal
+
+kelke Adj
+FU necessary
+
+kelke Vaux
+FU need (to do s'th)
+
+keni Vi
+Ug growl
+
+ker\"a Vt
+FU ask for, request
+
+ki\v{c}e Vs
+FP glow softly, as embers
+
+ki\v{l}e Vt
+FU tickle, stroke, touch softly
+
+ko\v{c}i Vt
+FU remember (declaratively)
+
+korpe Vt
+FU become scorched
+
+koke Vt
+U find, observe
+
+kola Vi
+U die (unavoidably)
+
+kon\v{c}i Vt
+U create s'th intricate
+
+kori Vt
+FU bite (as an attack)
+
+korta Vt
+U scorch, burn, use up, ruin
+
+koske Vt
+FP touch
+
+ko\'ska Vinch
+U become dry~I
+
+ku\'ci Vt
+FU call, name
+
+kula Vi
+FU come to an end, finish, die
+
+kule Vt
+U hear
+
+kulke Vi
+U travel
+
+kulta Vt
+U catch prey in water or in the air
+
+kunta Vt
+U catch prey on land
+
+ku\'na Vi
+U close your eyes
+
+kupsa Vt
+U extinguish, put a stop to, shut down
+
+kure Vt
+U bind, tie~I
+
+kuri Vt
+U knock out of place
+
+kuse Vi
+U cough
+
+k\"uigi Vi
+FU flirt
+
+k\"u\'ne Vi
+U whine, cry
+
+k\"u\'se Vt
+FV ask
+
+k\"u\'si Vi
+U play-fight
+
+k\"utke Vt
+FU bind~II
+
+la\v{c}e Vinch
+FU get soft from water or boiling
+
+latti Vt
+U see~II
+
+l\"ampi Vi
+FU float
+
+le Vi
+FU exist at some point
+
+leke Vt
+FU obtain metadata from, get a sense of
+
+likke Vi
+U move, work
+
+ma\v{c}ta Vaux
+FU be able (physically)
+
+ma\'n\'ci Vt
+Ug tell a story, relate, explain
+
+m\"al\"a Vt
+FU touch to get a sense of
+
+m\"ali Vinch
+Ug warm up, develop stride, accelerate
+
+m\"ari Vt
+Ug remember (procedurally), intuit
+
+mene Vi
+U go
+
+menes\"a Vt
+Smy love
+
+ment\"a Vi
+FU make a mistake, err~I
+
+mi\'c\"a Vt
+U sweep together, gather
+
+mige Vt
+U loan, sell
+
+moni Vt
+U say
+
+mu\'ci Vi
+Ug express happiness with your body language
+
+muja Vt
+FU touch, feel, rub
+
+muli Vinch
+FU pass by, run out, finish existing, die
+
+mura Vi
+FU call out, howl, sing
+
+mu\'ske Vt
+U wash~I
+
+m\"uki Vi
+Ug express happiness with your voice
+
+n\"ake Vt
+FU watch
+
+nist\"a Vi
+FV pant, blow your nose
+
+nuska Vt
+FV sniff
+
+nusi Vt
+U clean by scraping
+
+\'niele Vt
+U swallow
+
+\'niri Vt
+U write
+
+\'non\v{c}i Vi
+FU stretch
+
+\'nola Vi
+U sneak, move unnoticed
+
+\'noŋda Vi
+U follow tracks
+
+\'nuole Vt
+U lick
+
+\'nuŋi Vi
+FU rest
+
+\'n\"uki Vt
+U tug forcefully at
+
+o\'ca Vt
+U take care of
+
+oda Vi
+U sleep
+
+odami Vi
+U dream
+
+opta Vi
+U bark, call
+
+otta Vt
+U notice
+
+o\'ni Adj
+U tame, harmless, nice (of s'th with a mind)
+
+pala Vt
+U eat hastily
+
+pane Vt
+U put, place, erect, make stable
+
+pari Vt
+U cut, scrape, groove, fold
+
+pa\v{s}e Vt
+FP bake, roast
+
+p\"aji Vs
+FU glitter~II
+
+pe\v{c}k\"a Vt
+U cut
+
+peje Vinch
+U boil
+
+peks\"a Vt
+U hit, strike
+
+pele Vt
+[U | +sfoc] fear
+
+pese Vi
+FV wash your head or face
+
+pili Vi
+Ug burn~II
+
+pilki Vi
+FU bathe, be immersed in water
+
+pisa Vi
+FV dribble
+
+po\v{c}a Vt
+[U | +tfoc] become mixed or impregnated with
+
+pori Vi
+FP burn~III
+
+pu\v{c}ka Vinch
+FV spring out, boil over
+
+puke Vi
+FU sneak by crawling on your belly
+
+pukta Vi
+U jump
+
+puna Vt
+U spin (a thread), braid
+
+pu\'ni Vt
+U tend to, guard~I
+
+pura Vt
+U make a hole in
+
+pure Vt
+U bite (for any reason)
+
+pu\'si Vi
+Ug bubble
+
+pu\v{s}i Vi
+U blow
+
+p\"u\'ci Vinch
+FU become numb or necrotic
+
+p\"u\v{c}i Vt
+FU paint, dye, color
+
+sagi Vt
+FP let, lead, accompany
+
+sala Vi
+U hide
+
+saŋ\'ca Vi
+U stand
+
+sa\'sti Vt
+[FP | +efoc] cast a shadow onto
+
+s\"aje Vinch
+U rot
+
+s\"ale Vt
+[U | +efoc] get on/in
+
+s\"ane Vi
+U play
+
+s\"ati Vt
+[U | +sfoc] take a portion of
+
+seri Vt
+FP comb
+
+sitta Vi
+U shit
+
+soŋe Vt
+[U | +efoc]  enter
+[FU | +tfoc] wish for
+
+soske Vt
+U bite, hold in your mouth
+
+sokta Vt
+U mix
+
+suge Vi
+U paddle
+
+sula Vinch
+FU dissolve, melt (colloq.)
+
+susi Vinch
+FU become wet~II
+
+\'saŋki Vs
+U give off a scent
+
+\'sari Vinch
+FU become dry~II
+
+\'seli Vt
+[FV | +tfoc] lose (a substance from your bulk), bleed
+
+\'seri Vi
+FP infect others with your mood
+
+\'soje Vi
+FU resound
+
+\'somi N
+FU hunger
+
+\'sure Vi
+FU die (avoidably)
+
+\v{s}aŋi Vt
+FU want~II
+
+\v{s}ilki Vi
+FU fly
+
+\v{s}oka Vi
+FU sigh, rest, relax
+
+\v{s}oke Vi
+FP talk, speak
+
+\v{s}u\v{s}ti Vt
+FV rinse, wash~II
+
+\v{s}uode Vi
+FV leak through
+
+\v{s}uri Vt
+U divide, distribute, share
+
+\v{s}uwi Vinch
+FP turn sour, ferment
+
+taje Vi
+FV lose consciousness
+
+tale Vt
+[Smy *talä] pretend
+
+t\"akki Vt
+Ug observe
+
+teke Vt
+U do
+
+tepi Vi
+Ug err, make a mistake, lose your way~II
+
+toge Vt
+U bring, carry
+
+torje Vt
+FV protect
+
+to\v{s}te Vaux
+FV dare
+
+tule Vi
+U come
+
+tumpi Vt
+Ug slam
+
+tumte Vt
+U feel (general sense)
+
+tuna Vt
+U learn, actively perceive
+
+tuŋke Vt
+U insert
+
+tu\v{s}i Vt
+FP notice
+
+u\'ci Vi
+FU yawn
+
+uje Vi
+U swim
+
+umi Vt
+Ug guard~II
+
+uŋa Vt
+[U | +efoc] flow to, lead to, cause
+
+uri Vt
+[U | +pfoc] end up at
+
+\"u\'ni Vt
+Ug flirt with, chatter with, dote on
+
+\"uri Vt
+U drink
+
+wa\'ci Vt
+[FP | +sfoc] deeply regret, feel sad about
+
+wa\v{c}i Vt
+FU remember (episodically)
+
+wala Vt
+FV pour
+
+wa\v{l}i Vs
+FU glitter~III
+
+wa\'ni Vt
+FU beat
+
+wari Vi
+FU wait
+
+wari Vinch
+Ug get dawned on
+
+watka Vt
+U strip (s'th off of a surface)
+
+watta Vt
+U follow (tracks), perform induction on (evidence)
+
+w\"anti Vt
+FU look at
+
+w\"apti Vt
+FP trap
+
+w\"asi Vinch
+FU disappear, get lost (as keys do)
+
+wedi Vt
+FU kill
+
+wet\"a Vt
+FU lead, guide, draw, pull, drive
+
+wi\'ca Vt
+FU examine
+
+wige Vt
+U carry
+
+woje Vaux
+FU be allowed
+
+wole Vs
+FU be, exist
+
+woppe Vt
+U study (all senses)
+
+worki Vt
+U sew
+
+wuji Vt
+U see~I
+
+wuni Vinch
+U be forgotten
+
+w\"ul\"u Vt
+U experience, passively perceive
+
+
+;;;; adjectives
+
+aŋke Adj
+U tight, short (of time)
+
+\"a\v{c}i Adj 
+FU too hot to touch~I
+
+c\"ance Adj
+[Smy *c\"ancə] broad
+
+\'cari Adj
+U hard, strong
+
+\'c\"a\v{c}k\"a Adj
+U blinding
+
+\'ceri Adj
+U grey about as bright as shadows
+
+\'cuppa Adj
+U tight
+
+\v{c}ama Adj
+U just, only
+
+\v{c}awa Adj
+U sour, acidic
+
+\v{c}u\v{c}i Adj
+U straight
+
+\v{c}ukki Adj
+U densely packed
+
+\v{c}upa Adj
+U lean
+
+e\v{l}i Adj
+U humid
+
+en\"a Adj
+U a lot of
+
+eri Adj
+U old
+
+i\'c\"a Adj
+U few
+
+isi Adj 
+FV sit
+
+irwi Adj 
+FU happy
+
+jara Adj
+U having the shape of knotted wood
+
+j\"ap\'se Adj
+U dangerously pointy
+
+jena Adj
+[Smy *ena] right, true
+
+joma Adj 
+Ug good~I
+
+josi Adj 
+FP cold~I
+
+juli Adj
+U of a healthy weight
+
+jurma Adj
+U deep
+
+ka\'cki Adj 
+FP rotten, astringent
+
+ka\v{c}ke Adj 
+FP bitter, poisonous
+
+kaŋa Adj
+U curved, arched
+
+karwa Adj
+U painful to touch or taste
+
+kauka Adj 
+FU long~II, far
+
+k\"am\"a Adj
+U hard
+
+kep\"a Adj
+U easy, light
+
+ki\v{c}a Adj 
+FV (presently) emotionally unstable
+
+korki Adj 
+FU tall~II
+
+kuiwa Adj 
+FU dry
+
+kuja Adj 
+FU custom, habit, manner, mode
+
+kuma Adj
+U bent
+
+k\"u\'ci Adj 
+FU ready
+
+k\"u\'ciri Adj 
+Ug bitter, acrid (smell)
+
+k\"uni Adj 
+Ug light
+
+lama Adj
+U weak
+
+lamte Adj
+U deep, low
+
+lau\v{c}a Adj 
+FV soft~III
+
+l\"a\'n\'ci Adj
+U loose, insecure
+
+l\"awli Adj 
+FV heavy
+
+le\'n\'ci Adj 
+FU lukewarm
+
+le\'ni Adj 
+FU flabby, yielding, malleable
+
+leppi Adj 
+FU soft (like fur)
+
+lo\'n\'ca Adj 
+FU soft~II
+
+\v{l}ekki Adj 
+FU tight
+
+norja Adj 
+FV flexible
+
+nuji Adj 
+FU existentially tired, depressed
+
+nu\'n\'ci Adj 
+FU strong
+
+\'na\v{c}ki Adj 
+FU raw, unripe
+
+\'n\"ami Adj 
+FU soft (like skin)
+
+\'numi Adj
+U soft~I
+
+para Adj 
+FP good~II
+
+p\"awe Adj
+U warm~I
+
+pe\v{c}i Adj
+U ugly
+
+pe\v{l}kk\"a Adj 
+FP clean~II
+
+pide Adj
+U tall~I, long~I
+
+pi\v{l}mi Adj
+U black
+
+piri Adj
+U fast
+
+pirk\"a Adj 
+Smy tall~III
+
+pi\v{s}a Adj
+U red, yellow, green
+
+po\v{c}a Vinch
+U become wet~I
+
+po\'si Adj 
+FP too hot to touch~II
+
+pugri Adj 
+Ug tired, fatigued
+
+puji Adj
+U latter
+
+p\"ukkitti Adj 
+Ug too dark to see
+
+re\'ci Adj 
+FP beautiful
+
+ro\'ci Adj 
+Ug mentally tired, sleepy
+
+ro\v{c}ki Adj 
+FP brittle
+
+ruti Adj 
+FU rotten (as wood is)
+
+saja Adj 
+FP grey darker than shadows
+
+sakka Adj
+U dense
+
+s\"asi Adj 
+FP porous
+
+sere Adj
+[Smy *ser] white
+
+sine Adj
+U blue, violet
+
+soji Adj 
+FP cold~II
+
+sose Adj 
+FV fractal
+
+sari Adj 
+Ug quick
+
+s\"aŋi Adj 
+Ug grey lighter than shadows
+
+\'sepp\"a Adj
+U clever
+
+\'siki Adj 
+FV solid
+
+\'siwa Adj 
+FU clean~I
+
+\'somiri Adj 
+FU sad
+
+\v{s}eŋ\"a Adj
+U good, healthy, in working condition
+
+\v{s}oni Adj 
+FP warm~III
+
+\v{s}oppi Adj 
+FU dry to the touch
+
+\v{s}orwa Adj
+U dry, shriveled, wrinkled
+
+taŋketa Adj 
+FV stiff~II
+
+tari Adj 
+FP numb
+
+tasa Adj
+U smooth, even
+
+t\"awde Adj 
+FU full
+
+teppi Adj 
+FU thick
+
+tiw\"a Adj 
+FU peaceful, quiet, still
+
+turta Adj 
+FV stiff~I
+
+uli Adj
+U big, numerous
+
+\"u\'c\"a Adj
+U small
+
+\"u\v{c}i Adj 
+FU warm~II
+
+waji Adj
+[Smy *wəj, woj] bad
+
+w\"a\'s\"a Adj
+FP emotionally, sensorily, or socially tired, wanting to isolate
+
+wu\v{d}e Adj
+U new
+
+
+;;;; postpositions
+
+ala Post
+U bottom, space below
+
+ede Post
+U front
+
+\v{c}ette Post
+Ug west
+
+erme Post
+[Smy *ermə] north (of)
+
+jotka Post
+U among, space within s'th dense
+
+kalma Post
+U space where s'th is buried
+
+keske Post
+U middle
+
+ko\v{c}e Post 
+FP across, space above in transit
+
+koje Post
+U east (of)
+
+komi Post
+U space for holding s'th within
+
+ku\'ci Post
+Ug right (side of)
+
+kutti Post
+U surface supporting s'th
+
+luwe Post
+FU south (of)
+
+m\"ate Post
+U home
+
+miŋ\"a Post 
+FU back, space behind
+
+muli Post
+U side, space next to
+
+pa\v{c}ki Post
+U across, space through in transit
+
+piŋi Post
+U in possession, on/at hand
+
+pu\v{c}ki Post
+U inside, space within s'th hollow
+
+wa\v{d}ki Post
+U space between two streams or other dividing lines
+
+wasa Post
+U left (side of)
+
+wil\"a Post
+U top, space above
+
+
+;;;; kinship terms
+
+em\"a Kin
+U your birth parent
+
+\"a\'c\"a Kin
+U your blood, but not birth, parent
+
+imi | i\'c\"a | im\"a | i\'ci Kin
+U s'one who raised you
+
+ewkki Kin
+FU s'one with a direct line to you, whether through raising or blood
+
+koska | nati | nate Kin
+U s'one who was raised with you
+
+s\"a\'ce | \'ce\v{c}\"a Kin
+U none of the above, but still close family
+
+ek\"a Kin
+U none of the above, but still family
+
+poika Kin 
+FU your blood child
+
+\"agi | \"aki | ugi | uki | jugi | juki Kin
+U s'one you raised
+
+mi\'n\"a Kin
+U s'one with a direct line from you, whether through raising or blood
+
+e\'ce | e\'ci | e\'c\"a Kin 
+FU s'one who was raised with you
+
+w\"aŋe, kidi Kin
+U none of the above, but still close family
+
+l\"aw\"a Kin 
+FU none of the above, but still family
+
+aaikone N 
+[Ket \`ajkon] Arctic fox (poetic)
+
+arime N
+[Yuk arimə] paw pad, sole
+
+\'ciku N 
+EA sea ice
+
+\'cila N 
+EA climate, weather
+
+\oldetwdef{igelu}{den in snow}{E}{iglu}
+
+jeŋkile N 
+Yuk hearth, focus, power source
+
+\oldetwdef{kaŋu}{snow goose}{EA}{kaŋuR}
+\oldetwdef{keli\'n\'ce}{worm~II}{Yuk}{kelin\'cə}
+kaaxine N 
+Yugh \upa{k\'əxɨn} fox, person (poetic)
+
+\oldetwdef{kidage}{energy, esp.~thermal}{EA}{kiðaɣ}
+leele N 
+Ket \textit{l\`el(e)} bloody water
+
+maxasi N 
+I\~nu \textit{marasiq} medication
+
+\oldetwdef{\'neugu}{fish slime}{EA}{\'nəvɣuR}
+\oldetwdef{pedu}{email}{EA}{pəɬu}
+\oldetwdef{talxi}{tentacle}{A}{talRiX}
+teele N 
+Ket \upa{t\=el} mammoth
+
+\oldetwdef{uiwi}{mental health or ability}{E}{ujvi}
+urane N 
+Ket \textit{uran} slug or snail
+
+\end{wdefs}
+
+\begin{wdefs}{Verbs}
+\etwdef{daaje}{cuddle s'one to make them feel better}{Ket \upa{d\`əje}}
+\etwdef{dene}{cry, weep (poetic)}{Ket \textit{den}}
+\etwdef{eede}{send}{Ket \textit{\`ede}}
+\oldetwdef{eppaxi}{lick clean}{E}{əppaRiR}
+\etwdef{kite}{stroke}{Ket \textit{kit}}
+\oldetwdef{naku}{squint}{I}{nakuR}
+\oldetwdef{qulixa}{narrate, tell a story about}{EA}{quliRaR}
+\etwdef{s\"a\"atute}{et your share}{Ket \upa{s\'ätut}}
+\etwdef{uuse}{warm with your body}{Ket \upa{\=us}}
+\end{wdefs}
+
+\begin{wdefs}{Adjectives}
+\etwdef{aŋenige}{relaxed, content}{CAY \upa{aŋniɣ}}
+\etwdef{\'cumige}{anxious}{EA}
+\etwdef{iikete}{feeling like you should be hated}{Ket \textit{\'iket}}
+\etwdef{\'napa}{upright}{EA}
+\end{wdefs}
+
+%%%
+
+\section{Latin and Greek roots}
+\begin{wdefs}{Nouns}
+\wdef{aloopekse}{person}
+\wdef{animaalise}{animal (member of \textit{Animalia})}
+\wdef{ipsixjatrija}{pyschiatry}
+\wdef{ipsixologja}{psychology}
+\wdef{iskientija}{science}
+\wdef{iskoola}{school}
+\wdef{ispiraalis}{spiral}
+\wdef{keemija}{chemistry}
+\wdef{meetere}{meter (unit)}
+\wdef{minuuta}{minute}
+\wdef{molusku}{mollusc}
+\wdef{penna}{ballpoint pen}
+\wdef{piwlogja}{biology}
+\wdef{puŋtijoo}{function}
+\wdef{p\"usik\"a}{physics}
+\wdef{sekuntu}{second (unit)}
+\wdef{soojone}{animal (informal, imprecise sense)}
+\wdef{uniwersitaase, uni}{college}
+\wdef{wulpeese}{fox (member of \textit{Vulpes})}
+\wdef{xoora}{hour}
+\end{wdefs}
+
+\begin{wdefs}{Numerals}
+\wdef{jiljoo}{1000$^x$}
+\end{wdefs}
+
+%%%
+
+\section{Arabic roots}
+\begin{wdefs}{Nouns}
+\wdef{Allaa}{Abrahamaic god}
+\wdef{kit\"a\"ape}{book}
+\wdef{qalame}{pen or pencil}
+\wdef{qertaase}{paper}
+\wdef{teppe}{medicine (field)}
+\etwdef{xaliila}{intimate friend}{\ara{خَلِيلَة‎}}
+\end{wdefs}
+
+%%%
+
+\section{Persian and Sanskrit roots}
+\begin{wdefs}{Nouns}
+\etwdef{a\v{s}tadaaji}{grammar}{Sa.}
+\etwdef{naane}{bread}{MP}
+\etwdef{\'naaja}{logic}{Sa.}
+\etwdef{raŋa}{dye}{Sa.}
+\end{wdefs}
+
+\begin{wdefs}{Numerals}
+\etwdef{saxasra}{1000}{Sa.}
+\end{wdefs}
+
+%%%
+
+\section{Classical Chinese roots}
+\begin{wdefs}{Nouns}
+\wdef{\v{c}aje}{tea}
+\wdef{kiwene}{scroll}
+\end{wdefs}
+
+\section{Modern roots}
+\begin{wdefs}{Nouns}
+\etwdef{kompejuutere}{computer}{Eng.}
+\etwdef{laptoppe}{laptop}{Eng.}
+\etwdef{pala\v{c}iŋka}{cr\^epe}{Slavic}
+\etwdef{telewoune}{phone of any kind}{Eng.}
+\etwdef{woune}{smartphone}{Eng.}
+\etwdef{xotele}{hotel}{Eng.}
+\end{wdefs}
+
+\begin{wdefs}{Numerals}
+\etwdef{niwe}{216}{Ndom \textit{nif}}
+\end{wdefs}
+
+\section{Numerals}
+\begin{multicols}{3}
+\raggedcolumns
+\subsection{Senary}
+\wdef{elem\"a}{0}
+\wdef{\"ukte}{1}
+\wdef{k\"akt\"a}{2 (cardinal)}
+\wdef{kekt\"a}{2 (quantifying)}
+\wdef{kolme}{3}
+\wdef{\'nelj\"a}{4}
+\wdef{witte}{5}
+\wdef{kutte}{6}
+\wdef{kuutte}{36}
+\wdef{niwe}{216}
+\wdef{{\it x}-niiwe}{1296\textsuperscript{\it x}}
+\wdef{p\"al\"a}{1/2}
+\wdef{{\it x}-nti}{{\it x}th, 1/{\it x}}
+\columnbreak
+\subsection{Decimal}
+\etwdef{\'seŋ\'cem\"a}{7}{FP}
+\etwdef{\'nala}{8}{Ug}
+\etwdef{\"ukteks\"a}{9}{FV}
+\etwdef{k\"ume}{10}{FV}
+\etwdef{\'sata}{100}{FU}
+\wdef{saxasra}{1000}
+\wdef{{\it x}-jiljoo}{1000\textsuperscript{\it x}}
+\columnbreak
+\subsection{Limping\ Hex{\nolinebreak}adecimal}
+\wdef{\'nalaikte}{9}
+\wdef{\'nalakta}{10}
+\wdef{\'nalkolme}{11}
+\wdef{\'nalja}{12}
+\wdef{\'nalwitte}{13}
+\wdef{\'nalutte}{14}
+\wdef{\'nal\'cema}{15}
+\wdef{ope}{16}
+\wdef{kit\"a}{32}
+\wdef{n\"ak\"ure}{48}
+\wdef{tette}{64}
+\wdef{{\it x}-loge}{1024\textsuperscript{\it x}}
+\wdef{opel-}{{\it x} = 1}
+\wdef{kit\"al-}{{\it x} = 2}
+\wdef{n\"ak\"ul-}{{\it x} = 3}
+\wdef{tettel-}{{\it x} = 4}
+\end{multicols}
+\end{fullwidth}

@@ -1,0 +1,274 @@
+          LUOBBAL SÁMMOL ÁNTE'S PU
+        AND ITS RELATION TO MINÄNKÄLE
+
+         notes by idiots, for idiots
+
+
+phono clarifications:
+  ć    alveolo-palatal affric
+  ś    (fric allophone of ć in codas)
+  č    postalveolar affric
+  š    postalveolar fric
+  d    dental approx
+  đ    palatalized dental approx
+  g    velar approx/voiced fric
+  ń    alveolo-palatal nasal
+  ä    /æ/
+  ë    /ɤ/
+  ü    /y/
+  e    /e/, but in non-initial syllables /ə/
+
+— word-initial d, g, ŋ, and r didn't occur,
+  though indo-iranian loans like repä-će could
+  start with r
+— -jn was a thing apparently from possessor
+  suffixes
+— -w stems were too (-wə- medially)
+— č, š, ń, d, đ, and g haven't occurred in any
+  suffix; i think ń deserves to be in a suffix,
+  but the rest can go (alveolars and voiced
+  central approximants)
+— -jCC- and -sn- occurred, but only across
+   morpheme boundaries; there are other clusters
+   like that, but there's no pattern between them
+— ə-stems elided the final vowel and were used
+  as CV(C)C- stems. to avoid -CCC- they did
+  things like:
+    — n > ∅ /_CC (manče-ta > mačta)
+    — k > ∅ /C_C (kulke-ta > kulta)
+  and maybe:
+    — p > ∅ /_CC (lëpće-ta > lëśta)
+  which assimilations DON'T occur is not
+  covered. the following can be reconstructed
+  from the possessor suffixes:
+    — N₁N₂ > N₁ (always?)
+— there were words that were both verbs and
+  nouns, seemingly always
+    [do thing : product of thing]
+  e.g. kuńće, kuse, ćülke, ćoje, wuwa 'flow'.
+— adjectives were just nouns meaning "thing that
+  is [adjective]"; the most obvious ones are:
+    wuđe    'new'
+    küse    'thick'
+    pid-ka  'long, high'
+    ëńa     'tame'
+  some suffixes made adjectives:
+    ŋa ji   'PROP'
+    gta-ma  'CAR-GER?'
+    mta     'ORD' (with numbers)
+— there's only a small number of canonical space
+  words:
+    üle   'on, above'
+    ëla   'under, below'
+    ede   'in front of'
+    taka  'behind on the other side of'
+    läse  'near or opposite to'
+    müŋgä 'behind your back'
+  üle became finnic external -l-. internal -s-
+  is more obscure; may have meant 'opening'. the
+  following nouns turned into space words:
+    peŋä 'end'
+    mëge 'earth'
+    tüŋe 'base'
+    muka 'back of creature'
+  and the following compound:
+    men-tä-lä 'go-CAUS-NOMZ'
+      > 'along, through, past, during'
+— personal pronouns (w/ mk glosses):
+    minä  me    1-3₁  1
+    tinä  te    2-3₁  2
+    nä          3₁
+    sä    se    3ₙ₁   3
+  other pronouns:
+    tä     'this'
+    to/tu  'that'
+    mi     'what'
+    ke     'who'
+    ku     'why, where, when, how, etc.'
+— aux verbs:
+    e      'NEG'
+    e-lä   'NEG:IMP'
+    wole   'be, live, dwell'
+    lewe   'give birth? breathe? become?'
+— cases:
+    ∅  m  n  NOM ACC GEN
+    na ta ŋ  LOC ABL LAT
+    k        NOM         -DU
+    t  j  j  NOM ACC GEN -PL
+  idk:
+    kse   TRANS? DEST?
+    gta-k ABESS-? (doesn't seem like a case)
+— possession (with mk glosses):
+    NOM  ACC   GEN
+    me   me    ne      1
+    te   mte   nte     2
+    ne   me    ne      3₁
+    sa   msa   nsa     3ₙ₁
+
+    men  men   nen     1  -3₁
+    ten  mten  nten    2  -3₁
+    san  msan  nsan    3ₙ₁-3₁
+
+    mat  mat   nat     1-PL
+    tat  mtat  ntat    2-PL
+    sat  msat  nsat    3-PL
+— tense:
+    k    PRES? PFV?
+    ć    PAST? TEL?
+    j    PAST? PERF? IPFV? ATEL?
+— mood:
+    k     IMP and also for some reason CONNEG
+    ne?   some irrealis thing
+— person (on verbs, with mk glosses):
+  indefinite:
+    m  men  mat    1    1  -3₁  1-PL
+    t  ten  tat    2    2  -3₁  2-PL
+    n              3₁
+    ∅  kan  ∅-t    3ₙ₁  3ₙ₁-3₁  3-PL
+  definite:
+    lol just use the possessor suffixes
+— deverbal nouns:
+    ma            NMZ
+    w             NMZ
+    pa            PART.ACT
+    nta           GER
+    ja            AGENT
+    ća            PART.(FUT?).PERF? ABIL?
+    kkaće         AGENT.HAB?
+    ma-gta-ma     PART.NEG
+    ma-k-ta-ma    (alternate of above)
+— denominal nouns:
+    ka            no idea lol
+    kka           lmaoooooooo idk
+    kće           RECP?
+    ńća           COLL.ANIM
+    kse           VIALIS basically?
+    we-kse        makes space words concrete?
+    ŋa            PROP.INAL
+    je            PROP.AL
+    gta-ma        ABESS-NMZ
+    m-pa          COMP or MODV
+    mta           ORD (with numbers)
+— denominal verbs:
+    ta            VBZ
+    je            VBZ
+    le            VBZ
+    me            INCH <3
+    m-ta          INCH-CAUS <3 <3 <3 <3
+    m-ta-w        INCH-CAUS-REFL?
+    w             idk lol
+— deverbal verbs:
+    ta            CAUS
+    p-ta          ICPV-CAUS?
+    k-ta          PFV-CAUS?
+    w             REFL?
+    le            some duration thing
+    l-ta          nooooooooo idea haha
+    nte           FREQ (stative?)
+    kće           FREQ (active?)
+    je            might add volition :o
+— compounds were basically always bipartite, and
+  thing₁=thing₂ > [thing that has thing₁ and
+  thing₂ as important parts] is particularly
+  common.
+    nose=mouth > face
+  and
+    father=mother > parents
+  are examples of this, and
+    knee=bone > knee, neck=bone > neck
+  are too (morphemic expansion?).
+— pre-pu could have been split-erg, but there's
+  no evidence pu was.
+— NOM objects were a thing; mk will represent
+  this as noun incorporation, because obviously.
+— insofar as adjectives were a thing at all,
+  ADJ NOUN was the order for that. we're just
+  gonna lump these in with compounds, and treat
+  them as [classifier]=[thing] compounds.
+— postpositions didn't real; it was
+    word-GEN space_word(-LAT/LOC/ABL)
+  all along. just as everyone has suspected since
+  forever.
+— negation was e-[morpho] [verb]-k. (or elä if
+  it was an imperative; who tf knows what the
+  lä was for. you can't mix it up with 'live',
+  because that takes, like, actual predicates,
+  not connegatives.)
+— stuff like "it's raining" was 3SG apparently.
+  or just -∅, i mean that's not really special
+— there were no conjunctions and relative
+  pronouns; somehow everything was done with
+  verbal nouns. this didn't make much sense when
+  we read it in raun 1988, and sure as fuck
+  doesn't make more sense now. there has to be
+  a way to glue them together, and compounds
+  don't cut it. so, wtf?
+— see aikio 2002 and 2006 for juicy new samoyedic
+  roots (pystynen has them on his blog i think).
+— vocabwise, pu seems to have:
+    — about 120 stems relating to bodies and
+      minds. there's rich vocab for things you
+      can do with your mouth <3:
+        sewe  'eat'      soske  'chew'
+        jürä  'gnaw'     jëge   'drink'
+        ńime  'suck'     ńale   'lick'
+        ńäle  'swallow'  pala   'eat up'
+        appa  'devour'   puwa   'blow'
+        ćülke 'spit'     pure   'bite'
+    — about 100 basic verbs
+    — about 120 environment words, incl:
+        päjwä 'day'      eje    'night'
+        kaja  'sun'      sükeće 'autumn'
+        tälwä 'winter'   ëde    'year'
+        wete  'water'    lume   'snow'
+        jäŋge 'ice'      tuwe   'lake'
+        lupsa 'dew'      künte  'fog'
+        ćada  'rain'     purke  'snowstorm'
+    — like ten kinship words but they're all for
+      in-laws
+    — about 50 words for tech (not including that
+      famous finnic root for "carbon monoxide")
+    — a word for a soul representing your body,
+      and also a word for a soul representing
+      your conscious mind, which later got
+      grammaticalized as a reflexive pronoun in
+      like half of all uralic languages. also,
+      the verb for when birds court each other
+      also meant "sing a shamanic song", which
+      aikio thinks probably means that the
+      ancient uralians got high on shrooms and
+      had sex a lot (for spiritual reasons ofc).
+      i will note that we would have had vastly
+      better mental healthcare in prehistoric
+      yugra than we've had in the modern united
+      states, apparently. the word for shrooms
+      was pëŋka, loaned from indo-iranian for
+      "hemp".
+    — aikio reconstructs these numerals:
+        1 ükti  / äkti
+        2 kVkta / kVktä
+        3 kolme / kurme
+        4 neljä
+        5 wijte / wijete / wijtte / wijette
+        6 kuwte / kuwVte / kuwtte / kuwVtte
+        7 śäććemä (note ś-; def an ie loanword)
+      khanty and hungarian had *eđe for 1, and
+      no one knows why.
+      there's also luka '10' and śëta '100', but
+      the first one has only like three reflexes
+      and the second one's an indo-iranian loan.
+    — check out bergsland 1959 and seefloth 2000
+      for actually good uraleut comparisons. some
+      cool possible cognates:
+        ëla  'below'    pe  atə   'down'
+                        alt ac    'bottom &c'
+                        pe  alaq  'sole'
+        elä  'live'     pe  ətə   'be'
+        tule 'come'     pe  tut   'arrive'
+                        pe  tulag 'land (v)'
+                        alt cala  'land (v)'
+        kuda 'dawn'     pe  qilag 'sky'
+                        alt qilax 'dawn'
+        kuda 'weave'    pe  qilag 'knit, weave'
+
+      THANKS FOR SCROLLING TO THE BOTTOM <3

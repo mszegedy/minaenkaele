@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46666"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="KUDI.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="/home/mszegedy/documents/Dropbox/backup/code/tex/mitaenkeele/glyphs/KUDI.png"
+   inkscape:export-xdpi="341.32999"
+   inkscape:export-ydpi="341.32999">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7317777"
+     inkscape:cx="179.10173"
+     inkscape:cy="173.79669"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="73"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2090"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.162625;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:44.9958;stroke-opacity:1"
+       inkscape:transform-center-x="13.139371"
+       inkscape:transform-center-y="-1.2579639"
+       d="M 11.103136,7.1993309 C 12.231565,10.942918 8.5497228,11.755259 4.2519668,11.565351 L 16.486826,18.629019 C 29.201492,6.3803689 38.232299,31.963705 36.621741,34.753278 35.011179,37.542845 8.3399128,42.513686 12.590223,25.378141 L 0.35536383,18.314073 C 2.6686998,21.941071 3.8062548,25.536079 -1.6666668e-7,26.430628 L 6.7679308,38.15245 c 0,0 13.2743632,1.800054 7.6315302,13.218115 l 5.807886,10.060254 c 0.825935,-0.6504 14.651785,-35.781574 8.699225,9.714094 l 11.049111,-6.379352 c -6.257074,-14.471124 1.670481,-9.153154 6.942812,-0.02121 5.27233,9.131943 5.914216,18.656729 -3.489614,6.002376 l -11.049112,6.37935 c 42.376686,17.592774 5.039312,12.000456 4.06308,12.390533 l 5.808287,10.059854 c 12.709743,0.822186 7.63153,13.218516 7.63153,13.218516 l 6.767531,11.72183 c 2.677827,-2.84905 5.222121,-0.0664 7.206533,3.75053 v -14.12773 c -16.964974,-4.88691 0.675484,-25.499405 3.896603,-25.499405 3.221123,6e-6 20.861576,20.612505 3.896604,25.499405 v 14.12773 c 1.984406,-3.81695 4.528703,-6.59957 7.206532,-3.75053 l 6.767532,-11.72183 c 0,0 -5.078215,-12.39631 7.631529,-13.218516 L 99.043818,89.51661 C 98.067587,89.126527 60.730215,94.718853 103.1069,77.126077 l -11.049115,-6.37935 c -9.403829,12.654357 -8.761943,3.129567 -3.489615,-6.002376 5.272333,-9.131946 13.19989,-14.449951 6.942813,0.02121 l 11.049107,6.379352 c -5.95255,-45.495699 7.8733,-10.364502 8.69923,-9.714094 l 5.80789,-10.060254 c -5.64285,-11.418051 7.63153,-13.218115 7.63153,-13.218115 l 6.76793,-11.721822 c -3.80626,-0.894545 -2.66871,-4.489543 -0.35537,-8.116555 l -12.23486,7.064068 c 4.25031,17.13555 -22.42095,12.164714 -24.031515,9.375137 -1.61056,-2.789573 7.420245,-28.3729095 20.134915,-16.124259 l 12.23486,-7.063668 c -4.29775,0.189908 -7.9796,-0.622433 -6.85117,-4.3660201 h -13.53546 c 0,0 -8.19616,10.5958671 -15.263062,0 H 83.948834 C 84.099135,8.2398112 107.61066,37.778668 71.18653,9.875769 v 12.758702 c 15.660905,1.81678 7.091464,6.023187 -3.453197,6.023187 -10.54466,0 -19.114102,-4.206407 -3.453197,-6.023187 V 9.875769 C 27.856007,37.778668 51.367531,8.2398112 51.517831,7.1993309 H 39.901658 c -7.066907,10.5958681 -15.26306,0 -15.26306,0 z M 55.736983,33.95851 h 11.99635 11.996351 l 5.122769,8.873304 5.12317,8.873305 -5.998376,10.388807 -5.997973,10.389206 H 67.733333 57.487393 l -5.997974,-10.389206 -5.998375,-10.388807 5.12317,-8.873305 z" />
+  </g>
+</svg>

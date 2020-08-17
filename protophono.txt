@@ -1,0 +1,139 @@
+Mitänkiele/Pre-Proto-Uralic (5 kya)
+m  n                  ȵ    <ń>    ŋ      (ɴ) <h>
+p  t                              k      (q)
+   ts  <c>    tʃ <č>  tɕ   <ć>
+   s ð <s d>  ʃ  <š>  ɕ ðʲ <ś ď>  ɣ <g>  (χ) <x>
+w  l r                j ȴ  <j ľ>
+[+length on stops]
+
+i y <i ü>  u
+e          o
+æ   <ä>    ɑ  <a>
+ie         uo
+[+length on monophthongs]
+front-back vowel harmony (i, e neutral)
+
+CV(C)
+
+
+Pre-Proto-Uralo-Yukaghir (6 kya)
+m  n                  ȵ    <ń>    ŋ
+p  t                              k
+              tʃ <č>  tɕ   <ć>
+   s ð <s d>  ʃ  <š>  ɕ ðʲ <ś ď>  ɣ <g>
+w  l r                j ȴ  <j ľ>
+
+i y <i ü>     ɯ u <ï u>
+e          ə  o
+æ   <ä>       ɑ   <a>
+front-back vowel harmony for first two syllables
+further vowels restricted to non-umlauted ones
+
+CV(C)
+
+
+Mitänkiele Mark II/Pre-Proto-Uraleut (8 kya)
+m  n                  ȵ    <ń>    ŋ
+p  t                  ȶ    <c>    k
+              tʃ <č>
+v  s ð <s d>  ʃ  <š>  ɕ ðʲ <ś ď>  ɣ <g>
+w  l r                j ȴ  <j ľ>
+
+i y <i ü>     ɯ u <ï u>
+e          ə  o
+æ   <ä>       ɑ   <a>
+ü restricted to inital syllable
+phonemic stress
+
+CV(C)
+
+
+Mitänkiele Mark III/Pre-Proto-Uralo-Siberian (10 kya)
+m      n                  ȵ    <ń>    ŋ
+p      t          tʃ <č>  ȶ    <c>    k
+β <v>  s ð <s d>  ʃ  <š>  ɕ ðʲ <ś ď>  ɣ <g>
+w      l r                j
+
+i     u
+e  ə  o
+æ     ɑ <a>
+phonemic stress
+
+CV(C)
+
+
+  Mitänkiele Mark IV/Pre-Proto-Dené-Siberian (14 kya)
++ Mitänkiele Mark V/Pre-Proto-Altai-Siberian (15 kya)
+m      n             ȵ      <ň>    ŋ
+p      tʰ  t  <t d>  ȶʰ  ȶ  <ť ď>  kʰ k <k g>  ʔ <'>
+       tsʰ ts <c ʒ>  tɕʰ tɕ <č ǯ>
+       tɬʰ tɬ <ɕ ʓ>
+ϕ <f>  s             ɕ      <š>    x
+       ɬ      <l>
+
+i     u
+e  ə  o
+   a
+[+some quality, haven't decided yet;
+ either length or register tone]
+
+CV(N/ʔ)
+
+differences from mark v to mark iv:
+—— some rearrangement of allophones
+—— tone splits, or other vowel quality changes
+—— mark v has /h/ while mark iv has /x/
+
+
+Mitänkiele Mark VI/Pre-Proto-Macro-Siberian (16 kya)
+m      n           ɲ    <ň>    ŋ  ɴ <ꜧ>
+p      t  d        c  ɟ <ť ď>  k  q      ʔ <'>
+       ts   <c>    cç   <č>
+       s           ç    <š>       h
+       l  ɹ <l r>
+
+i     u
+e  ə  o
+   a
+[+some quality, haven't decided yet;
+ either length or register tone]
+
+CV(N)
+
+
+Mitänkiele Mark VII/Pre-Proto-Sino-Siberian (20 kya)
+m      n           ɲ  <ň>  ŋ  ɴ <ꜧ>   ʔ ~ [+nasal] <'>
+p      t           c       k  q
+       s           ç  <š>             h
+w      ɹ l <ȝ l>   j
+       ɾ ɺ <d r>   ɽ̠  <ř>
+
+[some ameng-like vowel system; not gonna
+ attempt this on 24 hours of no-sleep]
+
+C(w/l/ɹ/j)V(ɾ/ɺ/ɽ̠)(N)
+
+
+Mitänkiele
+Saŋća repä maiďa.
+[ˈsɑ̟ŋt͡ɕɑ̟ ˈrepæ ˈmɑ̟jð͡ʝ˖ɑ̟]
+
+Mitänkiele Mks II + III
+Saŋca repá majəďa.
+[ˈsɑŋȶɑ reˈpɑ ˈmɑjəð͡ʝ˖ɑ]
+
+Mitänkiele Mk IV
+Säťa ʓəpa maaša.
+[ˈsaˀȶʰa t͡ɬepʰà máːɕa]
+
+Mitänkiele Mk V
+Säťa ʓàpa máša.
+[ˈsaˀȶʰa t͡ɬàpʰa máɕa]
+
+Mitänkiele Mk VI
+Satťə čupə maššə.
+[ˈsacːə c͡çupə maçːə]
+
+Mitänkiele Mk VII
+Satťə čuoqwu määšə.
+[ˈsacːə c͡çuo̯qʷu mæːçə]

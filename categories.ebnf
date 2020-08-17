@@ -1,0 +1,60 @@
+/* formulas of multiple pronouns in a sequence; "me" pronoun gets interpreted
+   as "me and" when combined with other personal pronouns */
+pronoun_formula ::= 'me'
+                    | 'me and'? personal locative? demonstrative?
+                    | locative demonstrative?
+                    | demonstrative
+
+/* "personal" pronouns, designating class of physical thing */
+personal ::= person | organism | inorganic_thing
+
+person ::= ('masculine-presenting' | 'feminine-presenting' | 'nb-presenting')?
+           ('someone' ('inside' | 'outside') 'my head, who im'
+            'not'? 'speaking to'
+           | ('some people' | 'everyone')
+             ('inside' | 'outside' | 'both inside and outside')
+             'my head, at least one of whom im' 'not'? 'speaking to')
+
+organism ::= 'mobile' | 'immobile'
+
+inorganic_thing ::= ('compact' | 'spindly' | 'porous' | 'pile-like'
+                     | 'sheet-like')
+                    ('solid' | 'crumbly' | 'gel' | 'sticky' | 'liquid'
+                     | 'wispy' | 'airy')
+
+/* "locative" pronouns, designating how many dimensions something has and where
+   it is */
+locative ::= space_or_point | horiz_surface | other_surface
+
+
+space_or_point ::= ('space' | 'point')
+                   (personal_distance
+                    | further_distance
+                      (('inside' | 'outside') 'something' ('hollow' | 'dense')
+                       | 'above something'
+                       | 'below something'
+                       | 'next to something')?)
+
+horiz_surface ::= personal_distance
+                  | further_distance
+                    ('inside something'
+                     | 'outside something'
+                     | ('under' | 'over') ('one of us' | 'both of us'))?
+
+other_surface ::= ('flat' | 'curved')
+                  (personal_distance
+                   | further_distance
+                     ('inside something' | 'outside something')?)
+
+personal_distance ::= ('inside' | 'on') ('me' | 'you')
+
+further_distance ::= 'near me' | 'near you' | 'near us' | 'somewhere reachable'
+                     | 'somewhere unreachable'
+
+/* "demonstrative" pronouns, designating degree of salience */
+demonstrative ::= ('salient' | 'less salient')
+                  ('extant'
+                   | 'recently extant'
+                   | 'shortly extant'
+                   | 'previously extant'
+                   | 'eventually extant')?

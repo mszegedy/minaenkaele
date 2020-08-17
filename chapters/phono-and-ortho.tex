@@ -1,0 +1,275 @@
+\chapter{Phonology and orthography}
+\section{Inventory and allophony}
+\subsection{Consonants}
+\begin{fullwidth}\ipa
+  \tabcolsep=1.8em
+  \begin{tabular}{
+      @{\hskip 1em}c
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      @{\hskip 1em}}
+    \toprule\midrule
+    Labial
+    & \multicolumn{2}{c}{\makebox[0pt]{Alveolar}}
+    & \multicolumn{2}{c}{\makebox[0pt]{Postalveolar}}
+    & \multicolumn{2}{c}{\makebox[0pt]{Prepalatal}}
+    & \multicolumn{2}{c}{\makebox[0pt]{Velar}} \\\midrule
+    m & n &&&& ȵ & \ortho{\'n} & ŋ & \\
+    p & t && t͡ʃ & \ortho{\v{c}} & t͡ɕ & \ortho{\'c}& k & \\
+    & s && ʃ & \ortho{\v{s}} & (ɕ) & \ortho{\'s} \\
+    w & ð̞ l r & \ortho{d l r} &&& ð̞ʲ j & \ortho{đ j} & ɣ\,\~{}\,ɰ & \ortho{g}
+    \\\bottomrule
+  \end{tabular}
+\end{fullwidth}
+\vspace{1em}
+
+\noindent Min\"ank\"ale's consonants don't change much based on where they are.
+The stops and affricates \mbox{/\upa{p t t͡ʃ t͡ɕ k}/} can occur as geminates
+anywhere in the middle of a word, but not at the edges. /\upa{ɣ}/ is realized as
+[\upa{ɰ}] between vowels and before consonants, and [\upa{ɣ}] elsewhere.
+/\upa{t͡ɕ}/ becomes [\upa{ɕ}] at the end of syllables, where it's spelled
+\ortho{\'s}. Between vowels, it wavers between either, as [\upa{t͡ɕ\,\~{}\,ɕ}],
+and is still spelled~\ortho{\'c}.
+
+\subsection{Vowels}\label{s:vowels}
+Min\"ank\"ale\marginnote{\ipa\normalsize\centering
+  \begin{tabular}{llrr}
+    \toprule
+    i y & \ortho{i \"u} & u & \\
+    e && ɤ o & \ortho{\"e o} \\
+    æ & \ortho{\"a} & ɑ & \ortho{a} \\\bottomrule
+  \end{tabular}\\[0.5em]Initial vowels\\\vspace{1em}
+  \begin{tabular}{ll}\toprule
+    ə   & \ortho{e} \\
+    a   & \ortho{\"a/a} \\\bottomrule
+  \end{tabular}\\[0.5em]Non-initial vowels} has a system of eight vowels in the
+first syllable of a stem, and only two vowels elsewhere. The initial vowel
+/\upa{ɑ}/ is realized as [\upa{ɑ̟}]. The non-initial open vowel /\upa{a}/ is
+realized as [\upa{æ}]~\ortho{\"a} in stems that begin with one of
+/\upa{i~y~e~æ}/, and [\upa{ɑ̟}]~\ortho{a} otherwise (i.e.~in stems that begin
+with /\upa{u~ɤ~o~ɑ}/).
+
+There are certain stems that begin with /\upa{i}/ as the first vowel, but have
+[\upa{ɑ̟}] for their second vowel, and thus for all subsequent instances of
+/\upa{a}/. Thus, there are really \emph{two} /\upa{i}/ phonemes:
+/\upa{i\subscr{1}}/, after which /\upa{a}/ is realized as [\upa{æ}], and
+/\upa{i\subscr{2}}/, after which it is realized as [\upa{ɑ̟}]. The Latin and
+Cyrillic orthographies distinguish these indirectly by notating the difference
+between non-initial [\upa{æ}] and [\upa{ɑ̟}], while the Inuktitut syllabics
+orthography does not distinguish the two. /\upa{i\subscr{2}}/ is rare in native
+roots, but overwhelmingly common in loanwords from languages that do not have
+[\upa{æ}], such as \mk{ipsegewlewgeja}, from Latin \textit{psychologia}.
+
+\section{Phonotactics}
+Min\"ank\"ale has four kinds of syllables, each with different rules:
+stem-initial syllables, non-initial stem syllables, stem-final syllables with
+consonant suffixes, and suffix syllables.
+
+Stem-initial syllables are of the form (C)V(C). The initial consonant, if
+present, may be any of Min\"ank\"ale's consonants, apart from \mk{d}, \mk{g},
+\mk{ŋ}, and \mk{r}. (It can't be \mk{\'s}, either, since that's just \mk{\'c} at
+the end of a syllable.) The vowel can be any of the eight different stem-initial
+vowels discussed above~(\S\ref{s:vowels}). The final consonant can be anything,
+so long as it forms a legal consonant cluster with the next consonant.
+
+Non-initial stem syllables are of the form CV(C), or just CV(w) if they are
+stem-final (which they usually are). In either case, the beginning consonant may
+be anything, and in the non-stem-final case, so may the ending consonant.
+
+Stem-final syllables with consonant suffixes are similar, but they can only end
+in a limited set of consonants. 
+
+\begin{multicols}{2}\raggedcolumns
+\begin{itemize}
+  \item (J)\{\upa{C, Pː}\}
+  \item C\{\upa{t, t͡s, t͡ʃ, t͡ɕ, r}\}
+  \item \{\upa{p, k, N}\}\{F, \upa{l, ȴ}\}
+  \item \{\upa{N\textsubscript{h}, F}\}P
+  \item Fw
+  \item \{\upa{p, t, t͡s, t͡ʃ, t͡ɕ}\}\{\upa{k, q}\}
+\end{itemize}
+\columnbreak
+\begin{affixes}{}
+  C & consonant \\
+  V & vowel \\
+  N & \upa{m, n, ȵ, ŋ} \\
+  N\textsubscript{h} & homorganic nasal \\
+  P & \upa{p, t, k, q} \\
+  J & \upa{w, l, ȴ, j, r, χ} \\
+  F & \upa{s, ð, ʃ, ɕ, ðʲ, ɣ, χ} \\
+\end{affixes}
+\end{multicols}
+\noindent The differences between /\upa{n}/ and /\upa{ȵ}/, and between \upa{l}
+and \upa{ȴ}, are neutralized before \{\upa{t, t͡s, t͡ʃ, t͡ɕ, r}\}, the preceding
+consonant assimilating to become homorganic.
+
+In loanwords, Mit\"ankiele adds \mk{i-} to initial consonant clusters, and
+\mk{-e-} to break up illegal medial consonant clusters. Sequences of vowels are
+generally broken up with \mk{-w-} and \mk{-j-}, but some vowels are turned into
+approximants when legal and close enough, such as the \mk{w} and \mk{j} in
+\mk{piwlewgeja}~[\upa{ˈpiwləwɣəjɑ̟}] (< Latin \textit{biologia}).
+
+\section{Sandhi}
+The main source of sandhi in Mit\"ankiele is the fact that it allows neither
+consecutive vowels nor glottal stops. Instead, when there are vowels on both
+sides of a word boundary, it inserts an epenthetic approximant. Before front
+vowels, this approximant is [j], and before back vowels, [w]. This causes the
+compound \mk{mi-e}, for example, to be realized as [\upa{mí‿\,jé̞}]. (For a
+discussion of tone in compounds, see \S\ref{s:pitch-accent}.)
+
+\section{Morphophonology}
+\subsection{Prefixes}
+There are only three prefixes in Min\"ank\"ale: \mk{mi-}, \mk{ti-}, and
+\mk{min-}.
+\subsection{Suffixes}
+Most of Mit\"ankiele's morphology is suffixing. There are three
+morphophonological processes concerning the addition of suffixes: vowel harmonic
+assimilation, final vowel elision, and intervocalic epenthesis.
+For\marginnote{\normalsize%
+  \begin{affixes}{Harmony rules}
+    \hspace{1.3em}a  & $\to$ \"a \\
+    \hspace{1.3em}o  & $\to$ e \\
+    \hspace{1.3em}u  & $\to$ \"u \\
+    \hspace{1.3em}uo & $\to$ ie \\
+  \end{affixes}
+} vowel harmonic assimilation, once a suffix is attached, its vowels assimilate
+to the vowel harmony class of the root it's attached to. All prefixes in this
+grammar are given as their back vowel variants; to transform them into their
+front vowel variants, one simply applies the changes given to the right, for
+both the short and long variants of the vowels.
+
+Final vowel ellision occurs to \mk{-i}, and to \mk{-o/e} in un-ablauted
+stems. It only occurs if the resulting combination is phonotactically
+permissible. Therefore, it always happens when the ending begins with a vowel:
+\mk{suŋe-en}~>~\mk{suŋen}. Conversely, it never happens when the final vowel is
+preceded by a consonant cluster, or if the suffix contains a consonant cluster,
+with one exception covered just below: \mk{mai\v{d}a-na}~>~\mk{mai\v{d}ana},
+\mk{suŋe-lsi}~>~\mk{suŋelsi}. It also never occurs if it would create a final
+consonant cluster, meaning that it doesn't occur to consonant suffixes at all:
+\mk{suŋe-n}~>~\mk{suŋen}. In all other cases, one has to evaluate the potential
+consonant cluster for validity: \mk{\mbox{jomi-ta}}~>~\mk{jomta}, but
+\mk{jomi-ka}~>~\mk{jomika}.
+
+In cases where the elision would create \mk{-uwC} or \mk{-ijC}, the approximant
+is vocalized: \mk{puwi-na}~>~\mk{puuna}, \mk{kije-li}~>~\mk{kiili}. Similarly,
+if it would double a consonant, then for consonants capable of becoming
+geminates (all but central approximants) become geminates, while other
+consonants lengthen the vowel behind them (if it isn't long already):
+\mk{\'cele-le}~>~\mk{\'celle}. This also applies in the case that one or both of
+the consonants are geminate: \mk{\mbox{\v{c}itti-ta}}~>~\mk{\v{c}itt\"a}. This
+also creates the singular exception to the rule that roots in which the final
+vowel is preceded by a consonant cluster never experience elision: cases in
+which the ending can assimilate into a geminate with the last consonant of the
+cluster in the root, such as \mk{\'c\"arke-ki}~>~\mk{\'c\"arkki}.
+
+The final process, intervocalic epenthesis, is much simpler. It concerns
+epenthetic consonants inserted when a suffix begins with a vowel, and the final
+vowel of the root can't elide. Which consonant is inserted depends entirely on
+the first vowel, i.e.~the root's: if it is front, then \mk{-j-} is inserted, and
+if it is back, then \mk{-g-} is inserted, which is realized as [\upa{ɰ}] in this
+environment. Examples are \mk{w\"ul\"u-u}~>~\mk{w\"ul\"uj\"u},
+\mk{\'caka-a}~>~\mk{\'cakaga}, \mk{\mbox{kudu-en}}~>~\mk{kudugen}. Examples where the
+first vowel is front and the second vowel is back do not exist, since the only
+possible vowels in back vowel roots are \mk{-i} or \mk{-e}, which elide before
+suffixes that begin with vowels.
+
+\subsection{Prefixes}\label{s:assimilation}
+The application of prefixes are considerably more complicated than that of
+suffixes, because they can end in consonants, which may assimilate to the
+initial consonant of the root. The following rules apply in these situations,
+from greatest to least priority:
+\begin{enumerate}
+  \item All phonotactically permissible combinations stay the same.
+  \item Doubled consonants other than /\upa{w j}/ become geminates; the latter
+    two just elide the prefix's coda altogether.
+  \item Anything impermissible before /\upa{w j}/ elides, with the exception of
+    nasals, which become \upa{ɴ}.
+  \item \upa{N\subscr{1}N\subscr{2}} becomes \upa{N\subscr{2}ː}.
+  \item \upa{kq} and \upa{qk} assimilate to \upa{qː} and \upa{kː} respectively.
+    Similarly, \upa{tl} and \upa{tȴ} become \upa{lː} and \upa{ȴː}.
+  \item Fricatives preceded by /t/ or an affricate become geminate, and elide
+    the preceding consonant.
+\end{enumerate}
+If the prefix has an identifiable vowel harmony class (i.e.~contains vowels
+other than \mk{e} and \mk{i}), then the entire root and any subsequent affixes
+assimilate to this class: \mk{\'c\"ak-} + \mk{tone} > \mk{\'c\"aktene}.
+
+\subsection{Pitch accent in compounds}\label{s:pitch-accent}
+In hyphenated compounds, such as those formed with classifiers, modifying
+pronouns, and numerals, the individual elements within the compound are
+distinguished by pitch accent. After the first element of the compound, all
+subsequent elements start with roughly the same pitch as the first syllable of
+the first element, perhaps slightly lower. Additionally, in multisyllabic
+non-final elements, the last syllable gets a rising tone, to help meet the high
+tone that the next syllable begins with. For example, this is how the pitch
+melody of \mk{kekt\"a-kutte-\"ukte e-rep\"a} 'thirteen of these foxes' is
+rendered:
+
+\begin{center}
+  \begin{tikzpicture}
+    \contour[contour raise=0.5cm]
+            {|[10]kek |[5]tä- |[9]ku |[4]tte- |[9]ük te|[2] |[6]e- |[6]re pä|[0]}
+  \end{tikzpicture} 
+\end{center}
+\vspace{-1em}
+\noindent This may be transcribed into IPA as [\upa{kêktæ̌‿kûtːě‿jýkte̞ é‿répæ}].
+Note the falling tone on \mk{kek} and \mk{ku}; this happens in the first
+syllable of every polysyllabic non-final element.
+\pagebreak
+
+\section{Orthography}
+Given that acronyms are an occasional component of the language, letter names
+are worth clarifying. The names of the 27 letters of the Min\"ank\"ale alphabet,
+along with their ASCII representation if it differs, are:
+\begin{center}
+  \begin{tabular}{c@{\hskip 2pt}cc@{\hskip 2pt}cl}
+    A & a &&& \mk{a} \\
+    \"A & \"a & Ae & ae & \mk{\"a} \\
+    \'C & \'c & Cj & cj & \mk{\'ca} \\
+    \v{C} & \v{c} & Cz & cz & \mk{\v{c}a} \\
+    D & d &&& \mk{\'cade} or \mk{da} \\
+    Đ & đ & Dj & dj & \mk{đa} \\
+    E & e &&& \mk{e} \\
+    \"E & \"e & Eo & eo & \mk{\"e} \\
+    G & g &&& \mk{kimele} or \mk{ga} \\
+    I & i &&& \mk{i} \\
+    J & j &&& \mk{je} \\
+    K & k &&& \mk{ka} \\
+    L & l &&& \mk{le} \\
+    M & m &&& \mk{ma} \\
+  \end{tabular}\hspace{1em}
+  \begin{tabular}{c@{\hskip 2pt}cc@{\hskip 2pt}cl}
+    N & n &&& \mk{na} \\
+    \'N & \'n & Nj & nj & \mk{\'na} \\
+    Ŋ & ŋ & Ng & ng & \mk{naŋe} or \mk{ŋa} \\
+    O & o &&& \mk{o} \\
+    P & p &&& \mk{pa} \\
+    R & r &&& \mk{re} \\
+    S & s &&& \mk{sa} \\
+    \'S & \'s & Sj & sj & \mk{\'sa} \\
+    \v{S} & \v{s} & Sz & sz & \mk{\v{s}a} \\
+    T & t &&& \mk{ta} \\
+    U & u &&& \mk{u} \\
+    \"U & \"u & Ue & ue & \mk{\"u} \\
+    W & w &&& \mk{we} \\
+  \end{tabular}
+\end{center}
+Apart from the above-mentioned graphemes and the behavior of the phonemes they
+represent, worth discussing is Min\"ank\"ale punctuation and typesetting. While
+loanwords are generally rendered phonetically, it is also acceptable to render
+them in their original spelling, in which case they are italicized unless they
+are a proper noun, and any appended prefixes or suffixes are connected with a
+colon. Acronyms likewise receive suffixes with a colon. Quotes are done with
+«~and~», and nested quotes are done with ‹~and~›. Punctuation does not change in
+quotations, affixes are added directly to them without any other indication,
+clitics are added to them via hyphens, and they do not change the following
+capitalization; in short, they act exactly like words. In ASCII, «~and~» are
+both replaced with~\texttt{"}, and ‹~and~› are both replaced with~\texttt{'}.
+Hence: \bigexample{%
+  «\"Al\"a pelem\"ani erqama SMS:da miŋ \textit{auditorium}:na.» monije i mi
+  Jonathan:ŋ.\\
+  \texttt{"Aelae pelemaeni erqama SMS:da ming auditorium:na." monije i mi
+    Jonathan:ng.}}{%
+  ``Don't be afraid to send me an SMS at the auditorium,'' I told Jonathan.}
