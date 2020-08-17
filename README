@@ -1,0 +1,6 @@
+.tex and .sty files: make grammar
+        grammar.pdf: grammar
+               txt/: random notes and stuff
+               png/: random screenshots of the grammar mostly
+              misc/: currently contains only some ebnfs
+            glyphs/: contains everything for the very wip mk logosyllabary
