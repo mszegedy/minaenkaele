@@ -31,7 +31,9 @@ anywhere in the middle of a word, but not at the edges. /\upa{ɣ}/ is realized a
 [\upa{ɰ}] between vowels and before consonants, and [\upa{ɣ}] elsewhere.
 /\upa{t͡ɕ}/ becomes [\upa{ɕ}] at the end of syllables, where it's spelled
 \ortho{\'s}. Between vowels, it wavers between either, as [\upa{t͡ɕ\,\~{}\,ɕ}],
-and is still spelled~\ortho{\'c}.
+and is still spelled~\ortho{\'c}. It is also marginally phonemic in a small set
+of Indo-Iranian loanwords that begin with [\upa{ɕ}], such as
+\mk{\'s\"a\'c\'cem\"a} and \mk{\'s\"eta}.
 
 \subsection{Vowels}\label{s:vowels}
 Min\"ank\"ale\marginnote{\ipa\normalsize\centering
@@ -43,7 +45,7 @@ Min\"ank\"ale\marginnote{\ipa\normalsize\centering
   \end{tabular}\\[0.5em]Initial vowels\\\vspace{1em}
   \begin{tabular}{ll}\toprule
     ə   & \ortho{e} \\
-    a   & \ortho{\"a/a} \\\bottomrule
+    a   & \ortho{a/\"a} \\\bottomrule
   \end{tabular}\\[0.5em]Non-initial vowels} has a system of eight vowels in the
 first syllable of a stem, and only two vowels elsewhere. The initial vowel
 /\upa{ɑ}/ is realized as [\upa{ɑ̟}]. The non-initial open vowel /\upa{a}/ is
@@ -79,7 +81,7 @@ stem-final (which they usually are). In either case, the beginning consonant may
 be anything, and in the non-stem-final case, so may the ending consonant.
 
 Stem-final syllables with consonant suffixes are similar, but they can only end
-in a limited set of consonants. 
+in a limited set of consonants, and can also be of the form CVj\{m,\,n\}.
 
 \deprecate
 
@@ -174,27 +176,6 @@ first vowel is front and the second vowel is back do not exist, since the only
 possible vowels in back vowel roots are \mk{-i} or \mk{-e}, which elide before
 suffixes that begin with vowels.
 
-\subsection{Prefixes}\label{s:assimilation}
-The application of prefixes are considerably more complicated than that of
-suffixes, because they can end in consonants, which may assimilate to the
-initial consonant of the root. The following rules apply in these situations,
-from greatest to least priority:
-\begin{enumerate}
-  \item All phonotactically permissible combinations stay the same.
-  \item Doubled consonants other than /\upa{w j}/ become geminates; the latter
-    two just elide the prefix's coda altogether.
-  \item Anything impermissible before /\upa{w j}/ elides, with the exception of
-    nasals, which become \upa{ɴ}.
-  \item \upa{N\subscr{1}N\subscr{2}} becomes \upa{N\subscr{2}ː}.
-  \item \upa{kq} and \upa{qk} assimilate to \upa{qː} and \upa{kː} respectively.
-    Similarly, \upa{tl} and \upa{tȴ} become \upa{lː} and \upa{ȴː}.
-  \item Fricatives preceded by /t/ or an affricate become geminate, and elide
-    the preceding consonant.
-\end{enumerate}
-If the prefix has an identifiable vowel harmony class (i.e.~contains vowels
-other than \mk{e} and \mk{i}), then the entire root and any subsequent affixes
-assimilate to this class: \mk{\'c\"ak-} + \mk{tone} > \mk{\'c\"aktene}.
-
 \subsection{Pitch accent in compounds}\label{s:pitch-accent}
 In hyphenated compounds, such as those formed with classifiers, modifying
 pronouns, and numerals, the individual elements within the compound are
@@ -218,7 +199,9 @@ Note the falling tone on \mk{kek} and \mk{ku}; this happens in the first
 syllable of every polysyllabic non-final element.
 \pagebreak
 
-\section{Orthography}\undeprecate
+\undeprecate
+\section{Orthography}
+\subsection{Latin alphabet}
 Given that acronyms are an occasional component of the language, letter names
 are worth clarifying. The names of the 27 letters of the Min\"ank\"ale alphabet,
 along with their ASCII representation if it differs, are:
@@ -264,11 +247,77 @@ colon. Acronyms likewise receive suffixes with a colon. Quotes are done with
 «~and~», and nested quotes are done with ‹~and~›. Punctuation does not change in
 quotations, affixes are added directly to them without any other indication,
 clitics are added to them via hyphens, and they do not change the following
-capitalization; in short, they act exactly like words. In ASCII, «~and~» are
-both replaced with~\texttt{"}, and ‹~and~› are both replaced with~\texttt{'}.
-Hence: \deprecate\bigexample{%
-  «\"Al\"a pelem\"ani erqama SMS:da miŋ \textit{auditorium}:na.» monije i mi
-  Jonathan:ŋ.\\
-  \texttt{"Aelae pelemaeni erqama SMS:da ming auditorium:na." monije i mi
-    Jonathan:ng.}}{%
+capitalization; in short, they act exactly like words. In ASCII, · is replaced
+with~\texttt{-}, «~and~» are both replaced with~\texttt{"}, and ‹~and~› are both
+replaced with~\texttt{'}. Hence:
+\bigexample{%
+  «El\"a SMS·mege·pelek me \textit{auditorium}:na.» monajme Jonathan:ŋ. \\
+  \texttt{"Elae SMS-mege-pelek me auditorium:na." monajme Jonathan:ng.}}{%
   ``Don't be afraid to send me an SMS at the auditorium,'' I told Jonathan.}
+
+\subsection{Cyrillic alphabet}
+\subsection{Inuktitut syllabics}
+\begin{fullwidth}
+  \tabcolsep=1.8em
+  \inufont
+  \begin{tabular}{
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      l@{\hskip 1em}l
+      @{\hskip 1em}}
+    \toprule\midrule
+      \multicolumn{2}{c}{\makebox[0pt]{\latfont Labial}}
+    & \multicolumn{2}{c}{\makebox[0pt]{\latfont Alveolar}}
+    & \multicolumn{2}{c}{\makebox[0pt]{\latfont Postalveolar}}
+    & \multicolumn{2}{c}{\makebox[0pt]{\latfont Prepalatal}}
+    & \multicolumn{2}{c}{\makebox[0pt]{\latfont Velar}} \\\midrule
+    ᒪ & \ortho{m} & ᓇ & \ortho{n} &&& ᓐᔭ & \ortho{\'n} & ᖓ & \ortho{ŋ} \\
+    ᐸ & \ortho{p} & ᑕ & \ortho{t} & ᑦᖬ & \ortho{\v{c}}
+      & ᑦᔭ & \ortho{\'c/\'s} & ᑲ & \ortho{k} \\
+      &           & ᓴ & \ortho{s} & ᖬ & \ortho{\v{s}} \\
+    ᕙ & \ortho{w} & ᖤ ᓚ ᕋ & \ortho{d l r} &&& ᖦᔭ ᔭ & \ortho{đ j} & ᒐ & \ortho{g}
+    \\\bottomrule
+  \end{tabular}
+\end{fullwidth}
+\vspace{1em}
+
+\noindent Min\"ank\"ale's Inuktitut syllabics orthography is its simplest and
+most straightforward. It does not distinguish \mk{\'c} and \mk{\'s}, though
+there is room for disambiguation, as {\inufont ᔅᔭ} is unused. {\inufont ᖓ} has a
+few special cases: word-final \mk{-ŋ} is simply {\inufont ᖕ}, and the clusters
+\mk{ŋg} and \mk{ŋk} are {\inufont ᙵ} and {\inufont ᖕᑲ} respectively.
+
+Out\marginnote{\inufont\normalsize\centering
+  \begin{tabular}{llrr}
+    \toprule
+    ᐃ ᕷ & \ortho{i \"u} & ᐅ & \ortho{u} \\
+    ᐁ   & \ortho{e}     & ᕵ ᕴ & \ortho{\"e o} \\
+    ᕹ & \ortho{\"a} & ᐊ & \ortho{a} \\\bottomrule
+  \end{tabular}\\[0.5em]{\latfont Initial vowels}\\\vspace{1em}
+  \begin{tabular}{llll}\toprule
+    ᐃ & \ortho{e}     & ᐅ & \ortho{ew} \\
+    ᐊ & \ortho{a/\"a} & ᐁ & \ortho{aw} \\\bottomrule
+  \end{tabular}\\[0.5em]{\latfont Non-initial vowels}} of the eight stem-initial
+vowels, \mbox{\mk{a i u e}} are represented as is usual for Inuktitut syllabics,
+while \mbox{\mk{\"a \"e \"u o}} are associated with a modifying {\inufont ᕻ}.
+Stems beginning with vowels represent it as the full letter {\inufont ᕹ}, while
+stems beginning with consonants use the full letter of the consonant, followed
+by the modifying {\inufont ᕻ} (which precedes any coda consonants).
+
+The orthography does not distinguish non-initial \mk{a} and \mk{\"a}, and it
+allows you to write syllable-final \mk{-w} without adding an extra letter,
+making \mk{-w} stems end in full letters, like all the other ones. \mk{a/\"a}
+and \mk{e} are represented with what would otherwise be \mbox{\mk{a i}}, while
+the equivalents of initial \mbox{\mk{e u}} stand for \mbox{\mk{aw ew}}
+non-stem-initially. Thus, the previously-mentioned loanword \mk{ipsegewlewgeja}
+is rendered {\inufont ᐃᑉᓯᒍᓗᒋᔭ}. The example concluding the previous sections is
+written:
+\bigexample{\inufont %
+  «ᐁᓚ SMS·ᒣᒋ·ᐯᓕᒃ ᒣ auditorium:ᓇ.» ᒣᕻᓇᔾᒥ Jonathan:ᖕ.}{%
+  ``Don't be afraid to send me an SMS at the auditorium,'' I told Jonathan.}
+\mk{Auditorium} remains unitalicized, both because it's already obvious that
+it's a foreign word, given that is written with the Latin alphabet, and because
+Inuktitut syllabics fonts rarely provide italics in the first place, Latin or
+not.

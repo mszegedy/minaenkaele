@@ -20,19 +20,41 @@
   Extension      = .otf ,
   Ligatures      = TeX
 ]{Scala}
-\setsansfont{URW Gothic}
-% \newfontfamily{\tamfont}[Script=Tamil]{Noto Serif Tamil}
+\setsansfont[
+  Path           = ./fonts/ ,
+  UprightFont    = * ,
+  Extension      = .otf ,
+  Ligatures      = TeX
+]{ScalaSans}
+\newfontfamily{\latfont}[
+  Path           = ./fonts/ ,
+  UprightFont    = *-patched ,
+  BoldFont       = *-Bold-patched ,
+  ItalicFont     = *-Italic-patched ,
+  BoldItalicFont = *-BoldItalic ,
+  SmallCapsFont  = *Caps-patched ,
+  Extension      = .otf ,
+  Ligatures      = TeX
+]{Scala}
+\newfontfamily{\inufont}[
+  Path           = ./fonts/ ,
+  UprightFont    = * ,
+  BoldFont       = *Bold ,
+  Extension      = .ttf ,
+  Ligatures      = TeX ,
+  Scale          = 1.2 ,
+]{Masinahikan}
 \newfontfamily{\grfont}[Script=Greek]{Anaktoria}
 \newfontfamily{\arafont}[Script=Arabic]{Noto Naskh Arabic}
 \newfontfamily{\symb}{Symbola}
 \newfontfamily{\ipa}{Doulos SIL}
 
 % other packages
-\usepackage[greek,magyar,english]{babel} % correct line breaks
-\usepackage[utf8]{inputenc}              % utf-8 encoding
-\usepackage{subdepth}                    % fix spacing
-\usepackage{graphicx}                    % insert images
-\usepackage{amssymb}                     % insert certain characters
+\usepackage[english]{babel}     % correct line breaks
+\usepackage[utf8]{inputenc}     % utf-8 encoding
+\usepackage{subdepth}           % fix spacing
+\usepackage{graphicx}           % insert images
+\usepackage{amssymb}            % insert certain characters
 \usepackage[tight,nice]{units}  % do non-SI units
 \usepackage[toc,page]{appendix} % appendix formatting
 \usepackage{amsmath}   % insert certain symbols
@@ -54,10 +76,10 @@
 
 %%% SPECIFICALLY FOR GLOSS STUFF %%%
 % code from sparksbet's question: https://tex.stackexchange.com/q/524021/21256
-\newcommand{\agl}{\ex[everygla=\it\mkfmt]\begingl\gla}
-\newcommand{\bgl}{\glb}
-\newcommand{\tgl}{\glft}
-\newcommand{\glend}{\endgl\xe}
+% \newcommand{\agl}{\ex[everygla=\it\mkfmt]\begingl\gla}
+% \newcommand{\bgl}{\glb}
+% \newcommand{\tgl}{\glft}
+% \newcommand{\glend}{\endgl\xe}
 %%% END GLOSS STUFF %%%
 
 
@@ -106,7 +128,7 @@
 \newcommand{\etwdeftwo}[4]{\mk{#1} 1.~`#2', 2.~`#3' \mbox{(\textless}~#4)\par}
 \newcommand{\oldetwdef}[4]{\mk{#1} `#2' (\textless~#3~\upa{*#4})\par}
 \newcommand{\mketwdef}[3]{\mk{#1} `#2' \mbox{(\textless}~\mk{#3})\par}
-\newcommand{\ortho}[1]{$\langle$#1$\rangle$}
+\newcommand{\ortho}[1]{$\langle${\latfont #1}$\rangle$}
 \newcommand{\foc}[1]{({\sc #1f})}
 \newcommand{\case}[1]{(+{\sc #1})}
 \newcommand{\morp}[1]{\textsc{#1}}
@@ -203,4 +225,5 @@
 %\include{chapters/phrases}
 %\include{chapters/sample-texts}
 %\end{appendices}
+\nobibliography{}
 \end{document} 

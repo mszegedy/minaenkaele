@@ -1,6 +1,9 @@
-.tex and .sty files: make grammar
         grammar.pdf: grammar
+.tex and .sty files: make grammar
+          chapters/: .tex files for chapters
+           lexicon/: files and script for compiling lexicon (wip)
                txt/: random notes and stuff
                png/: random screenshots of the grammar mostly
               misc/: currently contains only some ebnfs
             glyphs/: contains everything for the very wip mk logosyllabary
+             fonts/: fonts we use for the grammar
