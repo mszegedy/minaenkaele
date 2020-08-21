@@ -48,6 +48,7 @@
 \newfontfamily{\arafont}[Script=Arabic]{Noto Naskh Arabic}
 \newfontfamily{\symb}{Symbola}
 \newfontfamily{\ipa}{Doulos SIL}
+\newcommand{\cyrfont}{\ipa}
 
 % other packages
 \usepackage[english]{babel}     % correct line breaks
@@ -135,8 +136,7 @@
 
 \newcommand{\bigexample}[2]{%
   \begin{quote}\normalsize
-    \mknm{#1}
-
+    \mknm{#1} \\
     #2
   \end{quote}}
 
