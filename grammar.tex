@@ -36,10 +36,16 @@
   Extension      = .otf ,
   Ligatures      = TeX
 ]{Scala}
+\newfontfamily{\ipa}[
+  ItalicFeatures = {StylisticSet=5} ,
+  AutoFakeSlant  = 0.15 ,
+  AutoFakeBold   = 1.5 ,
+]{Doulos SIL}
 \newfontfamily{\inufont}[
   Path           = ./fonts/ ,
   UprightFont    = * ,
   BoldFont       = *Bold ,
+  AutoFakeSlant  = 0.15 ,
   Extension      = .ttf ,
   Ligatures      = TeX ,
   Scale          = 1.2 ,
@@ -47,7 +53,6 @@
 \newfontfamily{\grfont}[Script=Greek]{Anaktoria}
 \newfontfamily{\arafont}[Script=Arabic]{Noto Naskh Arabic}
 \newfontfamily{\symb}{Symbola}
-\newfontfamily{\ipa}{Doulos SIL}
 \newcommand{\cyrfont}{\ipa}
 
 % other packages
@@ -121,13 +126,14 @@
   \colorlet{mk}{currentmk}
   \color{text}}
 \newcommand{\upa}[1]{{\ipa#1}}
+\newcommand{\recon}[1]{\mbox{\upa{*\textit{#1}}}}
 \newcommand{\subscr}[1]{\textsubscript{#1}}
 \newcommand{\supscr}[1]{\textsuperscript{#1}}
 \newcommand{\wdef}[2]{\mk{#1} `#2'\par}
 \newcommand{\wdeftwo}[3]{\mk{#1} 1.~`#2', 2.~`#3'\par}
 \newcommand{\etwdef}[3]{\mk{#1} `#2' \mbox{(\textless}~#3)\par}
 \newcommand{\etwdeftwo}[4]{\mk{#1} 1.~`#2', 2.~`#3' \mbox{(\textless}~#4)\par}
-\newcommand{\oldetwdef}[4]{\mk{#1} `#2' (\textless~#3~\upa{*#4})\par}
+\newcommand{\oldetwdef}[4]{\mk{#1} `#2' (\textless~#3~\recon{#4})\par}
 \newcommand{\mketwdef}[3]{\mk{#1} `#2' \mbox{(\textless}~\mk{#3})\par}
 \newcommand{\ortho}[1]{$\langle${\latfont #1}$\rangle$}
 \newcommand{\foc}[1]{({\sc #1f})}
@@ -139,6 +145,14 @@
     \mknm{#1} \\
     #2
   \end{quote}}
+
+\newcounter{histnote}[section]
+\renewcommand{\thehistnote}{\thesection~(\roman{histnote})}
+\newcommand{\histnote}[1]{%
+  \marginnote{%
+    \refstepcounter{histnote}
+    \hspace{-0.5em}\textit{Historical note~\thehistnote}\\
+    #1}}
 
 \newenvironmentx{affixes}[2][2=0.5em]{%
   \begingroup
