@@ -29,8 +29,19 @@ phono clarifications:
   but the rest can go (alveolars and voiced
   central approximants)
 — -jCC- and -sn- occurred, but only across
-   morpheme boundaries; there are other clusters
-   like that, but there's no pattern between them
+  morpheme boundaries; there are other clusters
+  like that, but there's no pattern between them
+— overall, the following universal rules can be
+  established:
+    — no obstruents before p
+    — no wp or wm
+    — only homorganic nasals before p and k
+    — no other sonorants after nasals
+  and additionally, when it's all one morpheme:
+    — no obstruents before sonorants
+  (the only known obstruent-sonorant cluster at
+  all was -sn-, and that was across a morpheme
+  boundary.)
 — ə-stems elided the final vowel and were used
   as CV(C)C- stems. to avoid -CCC- they did
   things like:

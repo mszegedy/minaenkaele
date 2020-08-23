@@ -66,8 +66,7 @@ roots, but overwhelmingly common in loanwords from languages that do not have
 
 \section{Phonotactics}
 Min\"ank\"ale has four kinds of syllables, each with different rules:
-stem-initial syllables, non-initial stem syllables, stem-final syllables with
-consonant suffixes, and suffix syllables.
+stem-initial syllables, non-initial stem syllables, and suffix syllables.
 
 Stem-initial syllables are of the form (C)V(C). The initial consonant, if
 present, may be any of Min\"ank\"ale's consonants, apart from \mk{d}, \mk{g},
@@ -78,128 +77,151 @@ so long as it forms a legal consonant cluster with the next consonant.
 
 Non-initial stem syllables are of the form CV(C), or just CV(w) if they are
 stem-final (which they usually are). In either case, the beginning consonant may
-be anything, and in the non-stem-final case, so may the ending consonant.
+be anything, and in the non-stem-final case, so may the ending consonant. If the
+stem has consonantal suffixes attached, then may only be a single consonant
+that's part of the set of consonants that can occur in suffixes in general (see
+below), or \mk{-j}\{\mk{m,\,n}\}, when the \mk{-j-} and the nasal are two
+separate suffixes.
 
-Stem-final syllables with consonant suffixes are similar, but they can only end
-in a limited set of consonants, and can also be of the form CVj\{m,\,n\}.
+The\marginnote{\centering\normalsize\ipa
+  \begin{tabular}{llll}
+    \toprule
+    m & n   & ȵ  & ŋ \\
+    p & t   & t͡ɕ & k \\
+      & s   &    &   \\
+    w & l r & j  & ɣ\,\~{}\,ɰ \\\bottomrule
+  \end{tabular}\\[0.5em]Suffix consonants\\[1em]
+  \begin{tabular}{ll}\toprule
+    ə \\
+    a \\\bottomrule
+  \end{tabular}\\[0.5em]Suffix vowels} set of consonants that suffixes can have
+is far smaller than the ones that can occur in stems. Suffixes can be just a
+single consonant, or a -CV syllable, or even certain -CCV syllables. They are
+shown on the right, along with the two vowels that suffixes can have. There can
+be multisyllabic suffixes, but they're pretty much always made up of multiple
+shorter suffixes. As noted earlier, long \mbox{/\upa{p t t͡ʃ t͡ɕ k}/} can't be
+single-consonant suffixes on their own. Given the rules below, the amount of
+suffixes allowed is 14~-C suffixes, 36~-CV suffixes, and 256~-CCV suffixes, for
+a total of 306 single-syllable and single-consonant suffixes.
 
-\deprecate
-
-\begin{multicols}{2}\raggedcolumns
+Stems and suffixes follow the same rules for what consonants can be next to
+each other. These rules are:
 \begin{itemize}
-  \item (J)\{\upa{C, Pː}\}
-  \item C\{\upa{t, t͡s, t͡ʃ, t͡ɕ, r}\}
-  \item \{\upa{p, k, N}\}\{F, \upa{l, ȴ}\}
-  \item \{\upa{N\textsubscript{h}, F}\}P
-  \item Fw
-  \item \{\upa{p, t, t͡s, t͡ʃ, t͡ɕ}\}\{\upa{k, q}\}
+  \item Two of the same consonant aren't allowed after each other (unless you're
+    talking about long /\upa{p t t͡ʃ t͡ɕ k}/).
+  \item When the cluster is all part of one morpheme, obstruents can't go before
+    sonorants. When there's a morpheme boundary, however, /\upa{s ʃ}/ are
+    allowed to precede sonorants.
+  \item Obstruents can't go before long /\upa{p t t͡ʃ t͡ɕ k}/ either.
+  \item Sonorants can't go after nasals.
+  \item The only things that can go before /\upa{p}/ are /\upa{m}/, and all the
+    non-nasal sonorants besides /\upa{w}/.
+  \item /\upa{n t t͡ʃ}/ aren't allowed before /\upa{t͡ɕ}/, and /\upa{ȵ t͡ɕ}/ aren't
+    allowed before /\upa{t͡ʃ}/.
+  \item The only nasal allowed before /\upa{k}/ is /\upa{ŋ}/.
+  \item /\upa{t t͡ʃ t͡ɕ}/ aren't allowed before /\upa{s ʃ}/.
+  \item /\upa{wp}/ and /\upa{wm}/ are not allowed.
+  \item While normally three consonants are forbidden from being next to each
+    other, -\mk{j}CC- is allowed when there's a morpheme boundary somewhere in
+    the cluster.
 \end{itemize}
-\columnbreak
-\begin{affixes}{}
-  C & consonant \\
-  V & vowel \\
-  N & \upa{m, n, ȵ, ŋ} \\
-  N\textsubscript{h} & homorganic nasal \\
-  P & \upa{p, t, k, q} \\
-  J & \upa{w, l, ȴ, j, r, χ} \\
-  F & \upa{s, ð, ʃ, ɕ, ðʲ, ɣ, χ} \\
-\end{affixes}
-\end{multicols}
-\noindent The differences between /\upa{n}/ and /\upa{ȵ}/, and between \upa{l}
-and \upa{ȴ}, are neutralized before \{\upa{t, t͡s, t͡ʃ, t͡ɕ, r}\}, the preceding
-consonant assimilating to become homorganic.
 
-In loanwords, Mit\"ankiele adds \mk{i-} to initial consonant clusters, and
-\mk{-e-} to break up illegal medial consonant clusters. Sequences of vowels are
-generally broken up with \mk{-w-} and \mk{-j-}, but some vowels are turned into
-approximants when legal and close enough, such as the \mk{w} and \mk{j} in
-\mk{piwlewgeja}~[\upa{ˈpiwləwɣəjɑ̟}] (< Latin \textit{biologia}).
-
-\section{Sandhi}
-The main source of sandhi in Mit\"ankiele is the fact that it allows neither
-consecutive vowels nor glottal stops. Instead, when there are vowels on both
-sides of a word boundary, it inserts an epenthetic approximant. Before front
-vowels, this approximant is [j], and before back vowels, [w]. This causes the
-compound \mk{mi-e}, for example, to be realized as [\upa{mí‿\,jé̞}]. (For a
-discussion of tone in compounds, see \S\ref{s:pitch-accent}.)
-
-\section{Morphophonology}
-\subsection{Suffixes}
-All of Min\"ank\"ale's morphology is suffixing. There are three
-morphophonological processes concerning the addition of suffixes: vowel harmonic
-assimilation, final vowel elision, and intervocalic epenthesis.
-For\marginnote{\normalsize%
-  \begin{affixes}{Harmony rules}
-    \hspace{1.3em}a  & $\to$ \"a \\
-    \hspace{1.3em}o  & $\to$ e \\
-    \hspace{1.3em}u  & $\to$ \"u \\
-    \hspace{1.3em}uo & $\to$ ie \\
-  \end{affixes}
-} vowel harmonic assimilation, once a suffix is attached, its vowels assimilate
-to the vowel harmony class of the root it's attached to. All prefixes in this
-grammar are given as their back vowel variants; to transform them into their
-front vowel variants, one simply applies the changes given to the right, for
-both the short and long variants of the vowels.
-
-Final vowel ellision occurs to \mk{-i}, and to \mk{-o/e} in un-ablauted
-stems. It only occurs if the resulting combination is phonotactically
-permissible. Therefore, it always happens when the ending begins with a vowel:
-\mk{suŋe-en}~>~\mk{suŋen}. Conversely, it never happens when the final vowel is
-preceded by a consonant cluster, or if the suffix contains a consonant cluster,
-with one exception covered just below: \mk{mai\v{d}a-na}~>~\mk{mai\v{d}ana},
-\mk{suŋe-lsi}~>~\mk{suŋelsi}. It also never occurs if it would create a final
-consonant cluster, meaning that it doesn't occur to consonant suffixes at all:
-\mk{suŋe-n}~>~\mk{suŋen}. In all other cases, one has to evaluate the potential
-consonant cluster for validity: \mk{\mbox{jomi-ta}}~>~\mk{jomta}, but
-\mk{jomi-ka}~>~\mk{jomika}.
-
-In cases where the elision would create \mk{-uwC} or \mk{-ijC}, the approximant
-is vocalized: \mk{puwi-na}~>~\mk{puuna}, \mk{kije-li}~>~\mk{kiili}. Similarly,
-if it would double a consonant, then for consonants capable of becoming
-geminates (all but central approximants) become geminates, while other
-consonants lengthen the vowel behind them (if it isn't long already):
-\mk{\'cele-le}~>~\mk{\'celle}. This also applies in the case that one or both of
-the consonants are geminate: \mk{\mbox{\v{c}itti-ta}}~>~\mk{\v{c}itt\"a}. This
-also creates the singular exception to the rule that roots in which the final
-vowel is preceded by a consonant cluster never experience elision: cases in
-which the ending can assimilate into a geminate with the last consonant of the
-cluster in the root, such as \mk{\'c\"arke-ki}~>~\mk{\'c\"arkki}.
-
-The final process, intervocalic epenthesis, is much simpler. It concerns
-epenthetic consonants inserted when a suffix begins with a vowel, and the final
-vowel of the root can't elide. Which consonant is inserted depends entirely on
-the first vowel, i.e.~the root's: if it is front, then \mk{-j-} is inserted, and
-if it is back, then \mk{-g-} is inserted, which is realized as [\upa{ɰ}] in this
-environment. Examples are \mk{w\"ul\"u-u}~>~\mk{w\"ul\"uj\"u},
-\mk{\'caka-a}~>~\mk{\'cakaga}, \mk{\mbox{kudu-en}}~>~\mk{kudugen}. Examples where the
-first vowel is front and the second vowel is back do not exist, since the only
-possible vowels in back vowel roots are \mk{-i} or \mk{-e}, which elide before
-suffixes that begin with vowels.
-
-\subsection{Pitch accent in compounds}\label{s:pitch-accent}
-In hyphenated compounds, such as those formed with classifiers, modifying
-pronouns, and numerals, the individual elements within the compound are
-distinguished by pitch accent. After the first element of the compound, all
-subsequent elements start with roughly the same pitch as the first syllable of
-the first element, perhaps slightly lower. Additionally, in multisyllabic
-non-final elements, the last syllable gets a rising tone, to help meet the high
-tone that the next syllable begins with. For example, this is how the pitch
-melody of \mk{kekt\"a-kutte-\"ukte e-rep\"a} 'thirteen of these foxes' is
-rendered:
+\section{Prosody}
+Similar to the prosody of many Uralic languages, initial syllables of
+polysyllabic words are stressed using intonation, and also have their vowels
+extended slightly. Otherwise, all syllables take up roughly the same time. The
+pitch across a single word is always descending, with a relatively dramatic drop
+after the first syllable, and a less dramatic descent in subsequent syllables.
+From word to word, the pitch jumps somewhat, to accentuate the first syllable of
+each new word. The sentence \mk{«Pu\v{c}a rep\"a\'cen pon\v{c}e uwana.»}
+meaning, ``The little fox's tail soaks in the stream,'' has the following
+melody:
 
 \begin{center}
   \begin{tikzpicture}
     \contour[contour raise=0.5cm]
-            {|[10]kek |[5]tä- |[9]ku |[4]tte- |[9]ük te|[2] |[6]e- |[6]re pä|[0]}
+            {|[10]Puča|[6] |[8]repä|[5]ćen|[4] |[6]ponče|[2] |[4]uwa|[1]na.|[0]}
   \end{tikzpicture} 
-\end{center}
-\vspace{-1em}
-\noindent This may be transcribed into IPA as [\upa{kêktæ̌‿kûtːě‿jýkte̞ é‿répæ}].
-Note the falling tone on \mk{kek} and \mk{ku}; this happens in the first
-syllable of every polysyllabic non-final element.
-\pagebreak
+\end{center}\vspace{-1em}
 
-\undeprecate
+\noindent Elements of compounds have special rules for the melodies of their
+components, covered in \S\ref{s:compounds}.
+
+\section{Morphophonology}
+\subsection{Suffixes}
+All of Min\"ank\"ale's morphology is either compounding or suffixing. When a
+suffix is added to a stem ending in \mk{-a/\"a}, there's no alterations; they
+are simply glued together. However, stems that end in \mk{-e} lose the final
+vowel, so this will often create illegal clusters, usually of three consonants.
+For two-consonant clusters, the \mk{-e-} is usually just reinserted if the
+cluster isn't allowed, as in \mk{nime-je} > \mk{nimeje} and \mk{w\"ake-ŋ\"a} >
+\mk{w\"akeŋ\"a}. However, if they are two different nasals, then the second
+one gets deleted. If they are two of the same stop, affricate, or nasal, then
+they collapse into one long version of that consonant. This is the only way
+to get long nasals.
+
+In three-consonant clusters, if the first consonant is \mk{j}, then it's no
+problem; that's allowed. In situations where the first two consonants don't
+belong to a word stem together, then the only solution for breaking up the
+cluster is to reinsert the \mk{-e}. But if they do, then they can get deleted to
+make room. Only nasals, stops, and affricates can get deleted this way, and only
+if it would make a cluster that's allowed. First, you try deleting the first
+consonant, as in \mk{man\v{c}e-ta} > \mk{ma\v{c}ta} and \mk{l\"ep\'ce-ta} >
+\mk{l\"e\'sta}. If you can't do that, either because it's not the kind that you
+can delete or it would make an illegal cluster, you try deleting the second
+consonant, as in \mk{kulke-ta} > \mk{kulta}. If neither of those work, you
+reinsert the~\mk{-e-}.
+
+\subsection{Compounds}\label{s:compounds}
+Min\"ank\"ale forms compounds for several reasons: to incorporate nouns into
+verbs, to string together verbs for serial verb constructions, to string
+together nouns with other classifying nouns, and to string together concepts
+into compounds that represent the concept that unites them. Each element of a
+compound behaves phonotactically like its own word, but the pitch melody used
+for the compound is different depending on what kind of compound it is.
+
+Noun incorporation and verb serialization use the same kind of melody, as they
+are part of the same kind of construction. In these, the pitch descends as
+normal, but halts its descent at the first syllable of each new element in the
+compound. These syllables, like the initial syllables of independent words, are
+slightly longer than other syllables. The sentence
+\mk{«Poskene·peljäne·ńale·jüräjme.»} meaning, ``I licked and nipped at their
+cheek and ears,'' has the melody:
+
+\begin{center}
+  \begin{tikzpicture}
+    \contour[contour raise=0.5cm]
+            {|[10]Poskene|[7]·pel|[7]jäne|[5]·ńa|[5]le|[3]·jü|[3]räjme.|[0]}
+  \end{tikzpicture} 
+\end{center}\vspace{-1em}
+
+\noindent This freely varies with a similar melody, where the pitch rises before
+the initial syllable of each element, almost up to the starting pitch of the
+previous element, and otherwise descends normally.
+
+\begin{center}
+  \begin{tikzpicture}
+    \contour[contour raise=0.5cm]
+            {|[10]Poske|[6]ne|[8]·peljä|[4]ne|[6]·ńa|[3]le|[5]·jüräjme.|[0]}
+  \end{tikzpicture} 
+\end{center}\vspace{-1em}
+
+\noindent Classifier-classified compounds have a more-or-less level, high tone
+for the classifiers, and then start falling after the first syllable of the
+classified elements. The phrase \mk{uwaŋa·p\"ajew·puna} 'flowing, willowy fur'
+has the melody:
+
+\begin{center}
+  \begin{tikzpicture}
+    \contour[contour raise=0.5cm]
+            {|[10]uwaŋa·päjew·pu|[9]na|[4]}
+  \end{tikzpicture} 
+\end{center}\vspace{-1em}
+
+\noindent Finally, multi-concept compounds have a falling tone throughout, not
+distinguishing elements from each other at all.
+
+\pagebreak
 \section{Orthography}
 \subsection{Latin alphabet}
 Given that acronyms are an occasional component of the language, letter names
@@ -329,9 +351,10 @@ concluding the previous section is written:
     &&& ᓐᔭ & \ortho{\'n} & ᖓ & \ortho{ŋ} \\
 
     ᐸ & \ortho{p} & ᑕ & \ortho{t} & ᑦᖬ & \ortho{\v{c}}
-    &   ᑦᔭ & \ortho{\'c/\'s} & ᑲ & \ortho{k} \\
+    &   ᑦᔭ & \ortho{\'c} & ᑲ & \ortho{k} \\
 
-      &           & ᓴ & \ortho{s} & ᖬ & \ortho{\v{s}} \\
+      &           & ᓴ & \ortho{s} & ᖬ & \ortho{\v{s}}
+    &   ᔅᔭ & \ortho{\'s} \\
 
     ᕙ & \ortho{w} & ᖤ ᓚ ᕋ & \ortho{d l r}
     &&& ᖦᔭ ᔭ & \ortho{đ j} & ᒐ & \ortho{g} \\\bottomrule
@@ -340,11 +363,9 @@ concluding the previous section is written:
 \vspace{1em}
 
 \noindent Min\"ank\"ale's Inuktitut syllabics orthography is its simplest and
-most straightforward. It does not distinguish \mk{\'c} and \mk{\'s}, though
-there is room for disambiguation, as \ortho{\inufont ᔅᔭ} is unused.
-\ortho{\inufont ᖓ} has a few special cases: word-final \mk{-ŋ} is simply
-\ortho{\inufont ᖕ}, and the clusters \mk{ŋg} and \mk{ŋk} are \ortho{\inufont ᙵ}
-and \ortho{\inufont ᖕᑲ} respectively.
+most straightforward. Out of the consonants, \ortho{\inufont ᖓ} has a few
+special cases: word-final \mk{-ŋ} is simply \ortho{\inufont ᖕ}, and the clusters
+\mk{ŋg} and \mk{ŋk} are \ortho{\inufont ᙵ} and \ortho{\inufont ᖕᑲ} respectively.
 
 Out\marginnote{\inufont\normalsize\centering
   \begin{tabular}{llll}
